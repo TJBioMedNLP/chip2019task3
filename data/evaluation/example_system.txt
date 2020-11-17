@@ -1,0 +1,1000 @@
+s1	Multiple
+s2	Symptom
+s3	Exercise
+s4	Therapy or Surgery
+s5	Compliance with Protocol
+s6	Multiple
+s7	Disease
+s8	Disease
+s9	Nursing
+s10	Laboratory Examinations
+s11	Therapy or Surgery
+s12	Therapy or Surgery
+s13	Disease
+s14	Multiple
+s15	Multiple
+s16	Consent
+s17	Therapy or Surgery
+s18	Disease
+s19	Researcher Decision
+s20	Therapy or Surgery
+s21	Disease
+s22	Consent
+s23	Ethnicity
+s24	Disease
+s25	Multiple
+s26	Organ or Tissue Status
+s27	Compliance with Protocol
+s28	Nursing
+s29	Multiple
+s30	Multiple
+s31	Disease
+s32	Disease
+s33	Pregnancy-related Activity
+s34	Diagnostic
+s35	Disease
+s36	Laboratory Examinations
+s37	Special Patient Characteristic
+s38	Pregnancy-related Activity
+s39	Therapy or Surgery
+s40	Diagnostic
+s41	Pharmaceutical Substance or Drug
+s42	Laboratory Examinations
+s43	Disease
+s44	Disease
+s45	Disease
+s46	Multiple
+s47	Disease
+s48	Diagnostic
+s49	Pharmaceutical Substance or Drug
+s50	Age
+s51	Address
+s52	Multiple
+s53	Addictive Behavior
+s54	Disabilities
+s55	Disease
+s56	Disease
+s57	Symptom
+s58	Consent
+s59	Neoplasm Status
+s60	Multiple
+s61	Risk Assessment
+s62	Disease
+s63	Device
+s64	Multiple
+s65	Enrollment in other studies
+s66	Disease
+s67	Multiple
+s68	Disease
+s69	Multiple
+s70	Multiple
+s71	Therapy or Surgery
+s72	Disease
+s73	Disease
+s74	Disease
+s75	Literacy
+s76	Data Accessible
+s77	Diet
+s78	Disease
+s79	Multiple
+s80	Symptom
+s81	Age
+s82	Smoking Status
+s83	Sign
+s84	Age
+s85	Diagnostic
+s86	Compliance with Protocol
+s87	Therapy or Surgery
+s88	Disease
+s89	Consent
+s90	Disease
+s91	Therapy or Surgery
+s92	Diagnostic
+s93	Diagnostic
+s94	Multiple
+s95	Consent
+s96	Allergy Intolerance
+s97	Disease
+s98	Consent
+s99	Age
+s100	Disease
+s101	Researcher Decision
+s102	Diagnostic
+s103	Multiple
+s104	Disease
+s105	Pregnancy-related Activity
+s106	Multiple
+s107	Enrollment in other studies
+s108	Pregnancy-related Activity
+s109	Multiple
+s110	Pregnancy-related Activity
+s111	Age
+s112	Bedtime
+s113	Diagnostic
+s114	Disease
+s115	Education
+s116	Non-Neoplasm Disease Stage
+s117	Disease
+s118	Consent
+s119	Therapy or Surgery
+s120	Life Expectancy
+s121	Multiple
+s122	Risk Assessment
+s123	Disease
+s124	Enrollment in other studies
+s125	Laboratory Examinations
+s126	Education
+s127	Capacity
+s128	Pharmaceutical Substance or Drug
+s129	Diagnostic
+s130	Multiple
+s131	Researcher Decision
+s132	Laboratory Examinations
+s133	Multiple
+s134	Life Expectancy
+s135	Symptom
+s136	Oral related
+s137	Diagnostic
+s138	Therapy or Surgery
+s139	Consent
+s140	Education
+s141	Disease
+s142	Pharmaceutical Substance or Drug
+s143	Pharmaceutical Substance or Drug
+s144	Multiple
+s145	Multiple
+s146	Pharmaceutical Substance or Drug
+s147	Multiple
+s148	Disease
+s149	Smoking Status
+s150	Disease
+s151	Consent
+s152	Disease
+s153	Disease
+s154	Age
+s155	Multiple
+s156	Disease
+s157	Neoplasm Status
+s158	Laboratory Examinations
+s159	Disease
+s160	Disease
+s161	Laboratory Examinations
+s162	Data Accessible
+s163	Diagnostic
+s164	Multiple
+s165	Enrollment in other studies
+s166	Education
+s167	Encounter
+s168	Special Patient Characteristic
+s169	Multiple
+s170	Symptom
+s171	Symptom
+s172	Disease
+s173	Multiple
+s174	Multiple
+s175	Pharmaceutical Substance or Drug
+s176	Disease
+s177	Diagnostic
+s178	Blood Donation
+s179	Compliance with Protocol
+s180	Diagnostic
+s181	Disease
+s182	Device
+s183	Risk Assessment
+s184	Risk Assessment
+s185	Disease
+s186	Multiple
+s187	Multiple
+s188	Risk Assessment
+s189	Multiple
+s190	Compliance with Protocol
+s191	Address
+s192	Multiple
+s193	Risk Assessment
+s194	Disease
+s195	Multiple
+s196	Multiple
+s197	Enrollment in other studies
+s198	Pregnancy-related Activity
+s199	Device
+s200	Allergy Intolerance
+s201	Disease
+s202	Multiple
+s203	Organ or Tissue Status
+s204	Disease
+s205	Consent
+s206	Diagnostic
+s207	Gender
+s208	Non-Neoplasm Disease Stage
+s209	Capacity
+s210	Pregnancy-related Activity
+s211	Disease
+s212	Consent
+s213	Multiple
+s214	Pregnancy-related Activity
+s215	Disease
+s216	Allergy Intolerance
+s217	Laboratory Examinations
+s218	Consent
+s219	Compliance with Protocol
+s220	Pharmaceutical Substance or Drug
+s221	Allergy Intolerance
+s222	Disease
+s223	Disease
+s224	Multiple
+s225	Disease
+s226	Address
+s227	Consent
+s228	Age
+s229	Therapy or Surgery
+s230	Multiple
+s231	Multiple
+s232	Disease
+s233	Organ or Tissue Status
+s234	Disease
+s235	Consent
+s236	Disease
+s237	Disease
+s238	Risk Assessment
+s239	Disease
+s240	Laboratory Examinations
+s241	Researcher Decision
+s242	Multiple
+s243	Disease
+s244	Organ or Tissue Status
+s245	Multiple
+s246	Laboratory Examinations
+s247	Therapy or Surgery
+s248	Therapy or Surgery
+s249	Alcohol Consumer
+s250	Disease
+s251	Pregnancy-related Activity
+s252	Diagnostic
+s253	Organ or Tissue Status
+s254	Disease
+s255	Disease
+s256	Symptom
+s257	Therapy or Surgery
+s258	Laboratory Examinations
+s259	Multiple
+s260	Diagnostic
+s261	Ethical Audit
+s262	Multiple
+s263	Multiple
+s264	Disabilities
+s265	Pregnancy-related Activity
+s266	Ethnicity
+s267	Pharmaceutical Substance or Drug
+s268	Consent
+s269	Diagnostic
+s270	Therapy or Surgery
+s271	Multiple
+s272	Age
+s273	Disease
+s274	Multiple
+s275	Laboratory Examinations
+s276	Disease
+s277	Multiple
+s278	Disease
+s279	Multiple
+s280	Researcher Decision
+s281	Age
+s282	Multiple
+s283	Multiple
+s284	Organ or Tissue Status
+s285	Multiple
+s286	Disease
+s287	Allergy Intolerance
+s288	Sign
+s289	Pregnancy-related Activity
+s290	Risk Assessment
+s291	Consent
+s292	Bedtime
+s293	Risk Assessment
+s294	Diagnostic
+s295	Multiple
+s296	Disease
+s297	Multiple
+s298	Disease
+s299	Multiple
+s300	Multiple
+s301	Symptom
+s302	Allergy Intolerance
+s303	Therapy or Surgery
+s304	Pregnancy-related Activity
+s305	Enrollment in other studies
+s306	Disease
+s307	Exercise
+s308	Multiple
+s309	Laboratory Examinations
+s310	Gender
+s311	Consent
+s312	Multiple
+s313	Allergy Intolerance
+s314	Enrollment in other studies
+s315	Disease
+s316	Multiple
+s317	Age
+s318	Data Accessible
+s319	Diagnostic
+s320	Laboratory Examinations
+s321	Organ or Tissue Status
+s322	Pharmaceutical Substance or Drug
+s323	Diet
+s324	Exercise
+s325	Multiple
+s326	Disease
+s327	Researcher Decision
+s328	Addictive Behavior
+s329	Pregnancy-related Activity
+s330	Literacy
+s331	Symptom
+s332	Multiple
+s333	Age
+s334	Diagnostic
+s335	Pregnancy-related Activity
+s336	Disease
+s337	Symptom
+s338	Allergy Intolerance
+s339	Enrollment in other studies
+s340	Age
+s341	Laboratory Examinations
+s342	Multiple
+s343	Therapy or Surgery
+s344	Allergy Intolerance
+s345	Disease
+s346	Therapy or Surgery
+s347	Age
+s348	Risk Assessment
+s349	Age
+s350	Disease
+s351	Multiple
+s352	Disease
+s353	Pregnancy-related Activity
+s354	Consent
+s355	Disease
+s356	Symptom
+s357	Consent
+s358	Laboratory Examinations
+s359	Compliance with Protocol
+s360	Risk Assessment
+s361	Disease
+s362	Allergy Intolerance
+s363	Laboratory Examinations
+s364	Capacity
+s365	Device
+s366	Disease
+s367	Multiple
+s368	Disease
+s369	Disease
+s370	Risk Assessment
+s371	Receptor Status
+s372	Multiple
+s373	Disabilities
+s374	Multiple
+s375	Disease
+s376	Blood Donation
+s377	Diagnostic
+s378	Multiple
+s379	Laboratory Examinations
+s380	Multiple
+s381	Disease
+s382	Disease
+s383	Blood Donation
+s384	Pregnancy-related Activity
+s385	Diagnostic
+s386	Multiple
+s387	Blood Donation
+s388	Age
+s389	Consent
+s390	Special Patient Characteristic
+s391	Multiple
+s392	Addictive Behavior
+s393	Multiple
+s394	Allergy Intolerance
+s395	Disease
+s396	Addictive Behavior
+s397	Pregnancy-related Activity
+s398	Multiple
+s399	Multiple
+s400	Disease
+s401	Non-Neoplasm Disease Stage
+s402	Multiple
+s403	Allergy Intolerance
+s404	Disease
+s405	Ethnicity
+s406	Multiple
+s407	Disease
+s408	Laboratory Examinations
+s409	Address
+s410	Researcher Decision
+s411	Receptor Status
+s412	Neoplasm Status
+s413	Symptom
+s414	Enrollment in other studies
+s415	Disease
+s416	Multiple
+s417	Sign
+s418	Sign
+s419	Therapy or Surgery
+s420	Pregnancy-related Activity
+s421	Consent
+s422	Therapy or Surgery
+s423	Pregnancy-related Activity
+s424	Disease
+s425	Disease
+s426	Laboratory Examinations
+s427	Disease
+s428	Gender
+s429	Organ or Tissue Status
+s430	Encounter
+s431	Device
+s432	Consent
+s433	Disease
+s434	Pharmaceutical Substance or Drug
+s435	Disease
+s436	Pregnancy-related Activity
+s437	Diagnostic
+s438	Data Accessible
+s439	Researcher Decision
+s440	Disease
+s441	Capacity
+s442	Receptor Status
+s443	Pharmaceutical Substance or Drug
+s444	Pregnancy-related Activity
+s445	Diet
+s446	Disease
+s447	Education
+s448	Compliance with Protocol
+s449	Disease
+s450	Multiple
+s451	Symptom
+s452	Therapy or Surgery
+s453	Consent
+s454	Special Patient Characteristic
+s455	Disease
+s456	Data Accessible
+s457	Ethical Audit
+s458	Diagnostic
+s459	Sexual related
+s460	Therapy or Surgery
+s461	Disease
+s462	Organ or Tissue Status
+s463	Capacity
+s464	Diagnostic
+s465	Multiple
+s466	Multiple
+s467	Non-Neoplasm Disease Stage
+s468	Multiple
+s469	Disease
+s470	Multiple
+s471	Disease
+s472	Age
+s473	Addictive Behavior
+s474	Smoking Status
+s475	Pharmaceutical Substance or Drug
+s476	Disease
+s477	Disease
+s478	Laboratory Examinations
+s479	Smoking Status
+s480	Enrollment in other studies
+s481	Pharmaceutical Substance or Drug
+s482	Receptor Status
+s483	Multiple
+s484	Multiple
+s485	Data Accessible
+s486	Disease
+s487	Risk Assessment
+s488	Disease
+s489	Compliance with Protocol
+s490	Multiple
+s491	Life Expectancy
+s492	Disease
+s493	Laboratory Examinations
+s494	Therapy or Surgery
+s495	Disease
+s496	Multiple
+s497	Symptom
+s498	Allergy Intolerance
+s499	Multiple
+s500	Multiple
+s501	Blood Donation
+s502	Addictive Behavior
+s503	Therapy or Surgery
+s504	Disease
+s505	Laboratory Examinations
+s506	Disease
+s507	Multiple
+s508	Ethnicity
+s509	Laboratory Examinations
+s510	Pregnancy-related Activity
+s511	Sign
+s512	Diagnostic
+s513	Disease
+s514	Therapy or Surgery
+s515	Addictive Behavior
+s516	Age
+s517	Diagnostic
+s518	Life Expectancy
+s519	Blood Donation
+s520	Therapy or Surgery
+s521	Disease
+s522	Pregnancy-related Activity
+s523	Laboratory Examinations
+s524	Addictive Behavior
+s525	Diagnostic
+s526	Therapy or Surgery
+s527	Enrollment in other studies
+s528	Disease
+s529	Diagnostic
+s530	Pharmaceutical Substance or Drug
+s531	Multiple
+s532	Laboratory Examinations
+s533	Enrollment in other studies
+s534	Sign
+s535	Disease
+s536	Enrollment in other studies
+s537	Age
+s538	Healthy
+s539	Risk Assessment
+s540	Pregnancy-related Activity
+s541	Enrollment in other studies
+s542	Organ or Tissue Status
+s543	Life Expectancy
+s544	Researcher Decision
+s545	Multiple
+s546	Symptom
+s547	Smoking Status
+s548	Disease
+s549	Age
+s550	Disease
+s551	Disease
+s552	Researcher Decision
+s553	Symptom
+s554	Receptor Status
+s555	Enrollment in other studies
+s556	Diagnostic
+s557	Disease
+s558	Multiple
+s559	Compliance with Protocol
+s560	Device
+s561	Disease
+s562	Therapy or Surgery
+s563	Addictive Behavior
+s564	Special Patient Characteristic
+s565	Multiple
+s566	Pharmaceutical Substance or Drug
+s567	Diagnostic
+s568	Researcher Decision
+s569	Disease
+s570	Education
+s571	Multiple
+s572	Literacy
+s573	Symptom
+s574	Laboratory Examinations
+s575	Therapy or Surgery
+s576	Laboratory Examinations
+s577	Sexual related
+s578	Capacity
+s579	Diet
+s580	Compliance with Protocol
+s581	Consent
+s582	Researcher Decision
+s583	Multiple
+s584	Multiple
+s585	Laboratory Examinations
+s586	Consent
+s587	Multiple
+s588	Laboratory Examinations
+s589	Multiple
+s590	Enrollment in other studies
+s591	Allergy Intolerance
+s592	Special Patient Characteristic
+s593	Multiple
+s594	Multiple
+s595	Diet
+s596	Allergy Intolerance
+s597	Allergy Intolerance
+s598	Pharmaceutical Substance or Drug
+s599	Diagnostic
+s600	Age
+s601	Disease
+s602	Consent
+s603	Pharmaceutical Substance or Drug
+s604	Laboratory Examinations
+s605	Multiple
+s606	Disease
+s607	Multiple
+s608	Disease
+s609	Organ or Tissue Status
+s610	Compliance with Protocol
+s611	Disease
+s612	Disease
+s613	Address
+s614	Enrollment in other studies
+s615	Therapy or Surgery
+s616	Pharmaceutical Substance or Drug
+s617	Consent
+s618	Sign
+s619	Risk Assessment
+s620	Organ or Tissue Status
+s621	Disease
+s622	Life Expectancy
+s623	Disease
+s624	Diagnostic
+s625	Disease
+s626	Exercise
+s627	Disease
+s628	Capacity
+s629	Disease
+s630	Therapy or Surgery
+s631	Laboratory Examinations
+s632	Risk Assessment
+s633	Multiple
+s634	Symptom
+s635	Therapy or Surgery
+s636	Multiple
+s637	Therapy or Surgery
+s638	Enrollment in other studies
+s639	Device
+s640	Consent
+s641	Multiple
+s642	Enrollment in other studies
+s643	Multiple
+s644	Therapy or Surgery
+s645	Education
+s646	Neoplasm Status
+s647	Life Expectancy
+s648	Life Expectancy
+s649	Device
+s650	Multiple
+s651	Neoplasm Status
+s652	Multiple
+s653	Sexual related
+s654	Disease
+s655	Researcher Decision
+s656	Enrollment in other studies
+s657	Disease
+s658	Disease
+s659	Therapy or Surgery
+s660	Pregnancy-related Activity
+s661	Diagnostic
+s662	Diagnostic
+s663	Diagnostic
+s664	Pharmaceutical Substance or Drug
+s665	Organ or Tissue Status
+s666	Disease
+s667	Age
+s668	Disease
+s669	Healthy
+s670	Disease
+s671	Pharmaceutical Substance or Drug
+s672	Diagnostic
+s673	Disease
+s674	Consent
+s675	Pregnancy-related Activity
+s676	Enrollment in other studies
+s677	Diagnostic
+s678	Multiple
+s679	Multiple
+s680	Device
+s681	Multiple
+s682	Consent
+s683	Age
+s684	Pharmaceutical Substance or Drug
+s685	Therapy or Surgery
+s686	Multiple
+s687	Encounter
+s688	Disease
+s689	Disease
+s690	Disease
+s691	Multiple
+s692	Multiple
+s693	Diagnostic
+s694	Age
+s695	Encounter
+s696	Oral related
+s697	Organ or Tissue Status
+s698	Diagnostic
+s699	Multiple
+s700	Multiple
+s701	Multiple
+s702	Diagnostic
+s703	Sign
+s704	Disease
+s705	Disease
+s706	Disease
+s707	Multiple
+s708	Allergy Intolerance
+s709	Diagnostic
+s710	Pregnancy-related Activity
+s711	Device
+s712	Alcohol Consumer
+s713	Therapy or Surgery
+s714	Researcher Decision
+s715	Disease
+s716	Healthy
+s717	Oral related
+s718	Data Accessible
+s719	Age
+s720	Consent
+s721	Consent
+s722	Risk Assessment
+s723	Multiple
+s724	Disease
+s725	Diagnostic
+s726	Researcher Decision
+s727	Life Expectancy
+s728	Pregnancy-related Activity
+s729	Laboratory Examinations
+s730	Receptor Status
+s731	Multiple
+s732	Allergy Intolerance
+s733	Therapy or Surgery
+s734	Consent
+s735	Consent
+s736	Laboratory Examinations
+s737	Consent
+s738	Data Accessible
+s739	Addictive Behavior
+s740	Multiple
+s741	Disease
+s742	Diagnostic
+s743	Gender
+s744	Diagnostic
+s745	Multiple
+s746	Therapy or Surgery
+s747	Laboratory Examinations
+s748	Disease
+s749	Multiple
+s750	Life Expectancy
+s751	Gender
+s752	Compliance with Protocol
+s753	Therapy or Surgery
+s754	Pregnancy-related Activity
+s755	Disease
+s756	Disease
+s757	Therapy or Surgery
+s758	Disease
+s759	Laboratory Examinations
+s760	Laboratory Examinations
+s761	Consent
+s762	Consent
+s763	Pregnancy-related Activity
+s764	Pregnancy-related Activity
+s765	Disease
+s766	Disease
+s767	Laboratory Examinations
+s768	Pharmaceutical Substance or Drug
+s769	Address
+s770	Life Expectancy
+s771	Therapy or Surgery
+s772	Disease
+s773	Device
+s774	Diagnostic
+s775	Pharmaceutical Substance or Drug
+s776	Laboratory Examinations
+s777	Risk Assessment
+s778	Multiple
+s779	Disease
+s780	Enrollment in other studies
+s781	Disease
+s782	Disease
+s783	Pharmaceutical Substance or Drug
+s784	Researcher Decision
+s785	Alcohol Consumer
+s786	Disease
+s787	Multiple
+s788	Healthy
+s789	Disease
+s790	Allergy Intolerance
+s791	Multiple
+s792	Compliance with Protocol
+s793	Pharmaceutical Substance or Drug
+s794	Disease
+s795	Special Patient Characteristic
+s796	Pregnancy-related Activity
+s797	Pregnancy-related Activity
+s798	Multiple
+s799	Disease
+s800	Age
+s801	Life Expectancy
+s802	Age
+s803	Therapy or Surgery
+s804	Smoking Status
+s805	Alcohol Consumer
+s806	Laboratory Examinations
+s807	Age
+s808	Laboratory Examinations
+s809	Researcher Decision
+s810	Allergy Intolerance
+s811	Address
+s812	Multiple
+s813	Multiple
+s814	Therapy or Surgery
+s815	Therapy or Surgery
+s816	Literacy
+s817	Risk Assessment
+s818	Therapy or Surgery
+s819	Multiple
+s820	Disease
+s821	Age
+s822	Consent
+s823	Disease
+s824	Multiple
+s825	Disease
+s826	Smoking Status
+s827	Encounter
+s828	Capacity
+s829	Disease
+s830	Multiple
+s831	Disease
+s832	Pregnancy-related Activity
+s833	Life Expectancy
+s834	Disease
+s835	Therapy or Surgery
+s836	Laboratory Examinations
+s837	Consent
+s838	Laboratory Examinations
+s839	Multiple
+s840	Disease
+s841	Disease
+s842	Non-Neoplasm Disease Stage
+s843	Multiple
+s844	Disease
+s845	Allergy Intolerance
+s846	Risk Assessment
+s847	Ethnicity
+s848	Ethnicity
+s849	Symptom
+s850	Consent
+s851	Therapy or Surgery
+s852	Enrollment in other studies
+s853	Enrollment in other studies
+s854	Disease
+s855	Disease
+s856	Multiple
+s857	Therapy or Surgery
+s858	Multiple
+s859	Multiple
+s860	Risk Assessment
+s861	Disease
+s862	Multiple
+s863	Disease
+s864	Addictive Behavior
+s865	Pregnancy-related Activity
+s866	Disease
+s867	Sign
+s868	Capacity
+s869	Compliance with Protocol
+s870	Laboratory Examinations
+s871	Risk Assessment
+s872	Life Expectancy
+s873	Disease
+s874	Neoplasm Status
+s875	Disease
+s876	Consent
+s877	Consent
+s878	Diagnostic
+s879	Addictive Behavior
+s880	Laboratory Examinations
+s881	Healthy
+s882	Disease
+s883	Multiple
+s884	Compliance with Protocol
+s885	Allergy Intolerance
+s886	Sign
+s887	Age
+s888	Age
+s889	Therapy or Surgery
+s890	Multiple
+s891	Diagnostic
+s892	Pregnancy-related Activity
+s893	Disease
+s894	Pregnancy-related Activity
+s895	Therapy or Surgery
+s896	Organ or Tissue Status
+s897	Allergy Intolerance
+s898	Allergy Intolerance
+s899	Ethical Audit
+s900	Sign
+s901	Multiple
+s902	Multiple
+s903	Ethnicity
+s904	Encounter
+s905	Diagnostic
+s906	Consent
+s907	Encounter
+s908	Disease
+s909	Therapy or Surgery
+s910	Disease
+s911	Consent
+s912	Consent
+s913	Enrollment in other studies
+s914	Non-Neoplasm Disease Stage
+s915	Diagnostic
+s916	Researcher Decision
+s917	Diagnostic
+s918	Disease
+s919	Disease
+s920	Consent
+s921	Multiple
+s922	Disease
+s923	Multiple
+s924	Laboratory Examinations
+s925	Compliance with Protocol
+s926	Literacy
+s927	Disease
+s928	Organ or Tissue Status
+s929	Multiple
+s930	Literacy
+s931	Addictive Behavior
+s932	Sign
+s933	Consent
+s934	Disease
+s935	Age
+s936	Organ or Tissue Status
+s937	Laboratory Examinations
+s938	Disease
+s939	Bedtime
+s940	Multiple
+s941	Disease
+s942	Risk Assessment
+s943	Consent
+s944	Laboratory Examinations
+s945	Multiple
+s946	Non-Neoplasm Disease Stage
+s947	Allergy Intolerance
+s948	Multiple
+s949	Compliance with Protocol
+s950	Diet
+s951	Gender
+s952	Therapy or Surgery
+s953	Data Accessible
+s954	Multiple
+s955	Therapy or Surgery
+s956	Multiple
+s957	Therapy or Surgery
+s958	Consent
+s959	Pregnancy-related Activity
+s960	Consent
+s961	Disease
+s962	Disease
+s963	Disease
+s964	Disease
+s965	Blood Donation
+s966	Allergy Intolerance
+s967	Bedtime
+s968	Allergy Intolerance
+s969	Pharmaceutical Substance or Drug
+s970	Diagnostic
+s971	Pregnancy-related Activity
+s972	Multiple
+s973	Diagnostic
+s974	Organ or Tissue Status
+s975	Age
+s976	Consent
+s977	Life Expectancy
+s978	Smoking Status
+s979	Consent
+s980	Ethnicity
+s981	Multiple
+s982	Disease
+s983	Pregnancy-related Activity
+s984	Disease
+s985	Sexual related
+s986	Allergy Intolerance
+s987	Diagnostic
+s988	Therapy or Surgery
+s989	Disease
+s990	Disease
+s991	Consent
+s992	Multiple
+s993	Allergy Intolerance
+s994	Multiple
+s995	Multiple
+s996	Sign
+s997	Organ or Tissue Status
+s998	Multiple
+s999	Multiple
+s1000	Therapy or Surgery

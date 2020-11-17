@@ -1,0 +1,1000 @@
+s1	Multiple	 7.凝血功能异常（INR＞1.5 或凝血酶原时间（PT）＞ULN+4 秒或 APTT &gt;1.5 ULN），具有出血倾向或正在接受溶栓或抗凝治疗；
+s2	Addictive Behavior	 （2）重度吸烟（大于10支/天）及酗酒患者
+s3	Therapy or Surgery	 13. 有器官移植病史或正等待器官移植的患者；
+s4	Therapy or Surgery	 –淋巴结转移范围超出手术所能切除范围视作不可切除
+s5	Compliance with Protocol	 ④无法定期来院随访者；
+s6	Multiple	 3. 在&lt;40岁患者有诊断哮喘的病史。但是在≥40岁患者有诊断哮喘病史的可以入选试验；
+s7	Disease	 3）心律失常患者
+s8	Disease	 2）有严重的肺功能损害性疾病史
+s9	Diagnostic	 ③宫颈细胞学检测结果为正常/炎性反应或ASC-US/LSIL行组织病理学检查结果为炎症者；
+s10	Laboratory Examinations	 3.甲胎蛋白大于200ng/ml；
+s11	Therapy or Surgery	 2.手术后仍有伤口不愈合者；
+s12	Therapy or Surgery	 （3） 2周内接受过抗疟治疗者；
+s13	Disease	 7.精神状态不能合作者，患有精神性疾病、无自制力、不能明确表达者；
+s14	Multiple	 10)已知免疫功能低下或患有获得性、先天性免疫缺陷疾病，或有器官移植史；
+s15	Multiple	 （6）无麻醉药及全身麻醉禁忌证无手术禁忌证。
+s16	Consent	 ⑥不愿意签署知情同意书者。
+s17	Therapy or Surgery	 （3）手术前半年内接受过永久性或暂时性的泪点栓塞。
+s18	Disease	 (5)严重的精神障碍或既往精神疾病病史阳性者；
+s19	Researcher Decision	 （9）根据医生判断容易造成失访者。
+s20	Therapy or Surgery	 5.手术体位为侧卧位或俯卧位者；
+s21	Disease	 7.因相同病因再入院患者。
+s22	Consent	 7. 不愿参加试验并不能配合
+s23	Compliance with Protocol	 6、治疗过程中不能有效配合者
+s24	Disease	 急慢性疼痛患者；
+s25	Multiple	 6)参加研究前30天内曾经接受过左卡尼汀治疗；对左卡尼汀及其衍生物过敏
+s26	Organ or Tissue Status	   7.血液、肝肾功能符合要求：
+s27	Compliance with Protocol	 4）由于个人原因无法依从本研究
+s28	Address	 3.本市常住
+s29	Multiple	（1）上海市户籍，年龄在2岁-18岁，有阳光宝宝卡或残疾人证明，或者正在申领的过程中。
+s30	Multiple	 2）年龄&lt;6月，双心室修补，手术行主动脉重建
+s31	Multiple	 4.凝血障碍、出血倾向或术前活动性出血者;
+s32	Disease	1）不孕夫妻除外单侧卵巢巧克力囊肿外还发现其它明显的不孕原因，例如：排卵障碍、严重少弱畸精症、双侧输卵管堵塞、宫颈因素不孕、性交障碍等
+s33	Pregnancy-related Activity	 ③妊娠试验阳性者。
+s34	Diagnostic	 22．胸片显示有活动性肺结核；或曾有结核病史或者潜伏性结核感染者或临床表现疑似为结核患者(包括但不限于肺结核)；
+s35	Disease	 2.患有焦虑症及精神障碍的患者；
+s36	Laboratory Examinations	 （4）用药前完成常规体检项目,结果无明显异常者；
+s37	Special Patient Characteristic	 4）没有清洁舌苔的习惯；
+s38	Pregnancy-related Activity	妊娠妇女
+s39	Therapy or Surgery	1. 近期已计划首次、再次做导管消融手术者；近三个月接受导管消融手术者；已接受左心耳封堵手术或近期准备做左心耳封堵手术者；
+s40	Diagnostic	1、确诊的HIV/AIDS患者。
+s41	Pharmaceutical Substance or Drug	 10. 在研究给药前至少一个月内服用了任何药物；
+s42	Laboratory Examinations	 4. eGFR≥30ml/min，Scr&lt;500umol/l;
+s43	Disease	 5)伴有急性全身感染性疾病；
+s44	Disease	 4)或有骨病及相关危险因素；
+s45	Disease	 b.胃溃疡、胃出血、糖尿病或其他自身免疫性疾病、高血压未控制、结核、精神类疾病患者、青光眼、糖尿病、HIV感染或AIDS患者；
+s46	Multiple	颈椎骨折部分：经CT及MR证实的急性寰椎骨折、寰枢椎复合型骨折，下颈椎骨折、脱位、韧带损伤伴脱位，年龄18岁以上，在创伤后急性期接受了非手术治疗；随访超过两年。
+s47	Disease	1.1周内心肌梗死。
+s48	Diagnostic	 3.患2型糖尿病（临床诊断）12个月以上；
+s49	Pharmaceutical Substance or Drug	 鼻内用或系统使用皮质类固醇激素＜1月
+s50	Age	1.年龄：18-70岁；
+s51	Age	年龄 25~55岁
+s52	Multiple	 （7）不能提供书面知情同意书，或无法遵循试验方案者；
+s53	Addictive Behavior	 9.嗜烟者
+s54	Disabilities	 (7) 法律规定的残疾患者(盲、聋、哑、智力障碍、精神障碍等)
+s55	Disease	 4）胸上段食管鳞管： 病灶上缘位于食管入口至奇静脉弓下缘之间水平。
+s56	Disease	 2、脑卒中发病后发生过明显误吸
+s57	Diagnostic	 12、中医认为具备热证：口舌糜烂、手脚心热、五心烦热、唇红如妆、舌红苔黄或无苔。
+s58	Consent	1、同意参加该临床研究的患者；
+s59	Risk Assessment	 2.ECOG评分：0-2分
+s60	Multiple	 3.  Fitzpatrick类型I~V型，年龄3~75岁。
+s61	Risk Assessment	 8)ASA&gt;3级
+s62	Disease	 ③脑卒中首次发病，发病时间为≤4个月，首次入我院治疗；
+s63	Laboratory Examinations	 8  足够的肾功能：肌酐清除率≥60 mL/min；
+s64	Multiple	 1)年龄在18-45周岁的中国健康志愿者，同批年龄相差＜10岁，男女各半；
+s65	Consent	 11）不同意填写知情同意书者
+s66	Disease	 2.糖尿病患者；
+s67	Multiple	 G． 能获取完整的随访信息，能理解本研究的情况并签署知情同意书。
+s68	Disease	 2.首次脑卒中，病程≤2年；
+s69	Multiple	1 ASA I ~ III级,出生小于28天的新生儿；
+s70	Multiple	 ⑶ 有自身免疫性肝炎征象者（抗核抗体滴度＞1:100）。
+s71	Therapy or Surgery	 （6）不能进行充分术前准备的急诊患儿；
+s72	Disease	 8）活动性恶性肿瘤；
+s73	Disease	 9.严重的或不能控制的精神疾病患者
+s74	Disease	 7.进入研究前3年内曾诊断为任何其他恶性肿瘤，经充分治疗的基底细胞或鳞状细胞皮肤癌或宫颈原位癌除外；
+s75	Literacy	 6)文盲，听说读写能力障碍者；
+s76	Laboratory Examinations	 4. 体温≥38.0℃。
+s77	Diet	 11)每天饮用过量茶、咖啡或含咖啡因的饮料（8杯以上，每杯200mL）者；（问诊）
+s78	Disease	(1)有胃、脾、肝、肾等慢性病史、其它严重疾病史、或体格检查时发现有不宜参加试验的疾病
+s79	Multiple	①受试者对器械材料及其降解产物(糠酸莫米松 左旋聚乳酸 消旋聚乳酸 乳酸丙交酯 乳酸)存在已知的过敏反应或禁忌症;
+s80	Symptom	     有郁怒、多虑、忧愁等情志所伤史。
+s81	Age	 3.年龄45~60岁；
+s82	Risk Assessment	 （2）ASAⅠ~Ⅲ级；
+s83	Sign	（1）伴有弱视
+s84	Age	1、年龄18-80
+s85	Diagnostic	 （2）胃镜检查确诊的慢性胃炎，伴或不伴已愈合的胃溃疡或十二指肠球部溃疡。
+s86	Compliance with Protocol	 2) 不易配合患者；
+s87	Special Patient Characteristic	 5、为右利手
+s88	Disease	 6) 慢性肾功能衰竭
+s89	Consent	 （3）签署知情同意书，患者自愿接受介入封堵治疗。
+s90	Disease	 4)虹膜新生血管或新生血管性青光眼
+s91	Therapy or Surgery	 3.需要急症行颅内血肿清除的患者；
+s92	Diagnostic	 ② 符合DSM-IV 精神分裂症诊断标准；
+s93	Compliance with Protocol	 3.患者依从性好，理解并且同意穴位埋线
+s94	Multiple	 4. 任何有临床意义的主要器官或全身性急性疾病、或任何其他情况，研究者判定难以完成随访者；
+s95	Consent	 5)拒绝签署知情同意书者
+s96	Allergy Intolerance	 ④对本治疗中所用生物制剂过敏者；
+s97	Disease	 （3）半年内有心肌梗塞、严重心律失常病史；
+s98	Consent	 ⑧自愿加入本试验并签署知情同意书。
+s99	Age	1.年龄为30-70岁
+s100	Disease	1.脑转移患者
+s101	Multiple	（1）年龄在18-70岁，ASA I-III级；
+s102	Diagnostic	1.经过细胞学以及细胞遗传学检查确定是受者型复发白血病
+s103	Multiple	 4. 肝功能异常或肝炎等肝病未得到控制者，以及患有研究者认为可能干扰参加研究或评估的其他疾病等；
+s104	Disease	 6.高血压患者。
+s105	Pregnancy-related Activity	（1）反复自然流产2次及以上的患者（包括生化妊娠流产）；
+s106	Multiple	 2.近期（2周内）有流感、腹泻等急症者或有服用抗菌药物的。
+s107	Enrollment in other studies	 （3）一个月内参加过其它药物试验的受试者；
+s108	Pregnancy-related Activity	 2.妊娠或哺乳期妇女
+s109	Multiple	 -在首次用药前2个月内进行过大手术或受严重外伤的患者；
+s110	Pregnancy-related Activity	 8. 孕妇或哺乳期妇女；
+s111	Age	 (2)年龄在30-65岁之间者；
+s112	Compliance with Protocol	 (4) 由于心理、社会、家庭及地理原因不能配合定期随访的患者；
+s113	Diagnostic	 a）基于临床证据和/或病原学阳性结果的怀疑或证实的感染；
+s114	Disease	 ⑸2型糖尿病；
+s115	Laboratory Examinations	 （11）AST和ALT≤2.5倍正常参考值上限，存在肝转移灶的受试者应≤5倍正常参考值上限
+s116	Therapy or Surgery	 ②自愿进行初次鼻整形或鼻修复术；
+s117	Disease	 4.患者为首次发病，或既往肢体瘫痪后遗症不影响神经功能评分的再次发病患者。
+s118	Consent	  2. 患者本人或监护人知情同意；
+s119	Therapy or Surgery	 4.正在接受任意剂量的伊马替尼治疗，尚未出现治疗失败和耐药；或正在接受任意剂量的第二代TKI（尼洛替尼、达沙替尼、帕纳替尼或伯舒替尼）治疗
+s120	Disease	 3.病程&lt;72h；
+s121	Multiple	 5)病情危重（术前ASA分级≥IV级者）；严重肾功能损害（术前接受透析治疗）；严重肝功能损害（Child-Pugh C级）者；术前合并严重心脏疾患，LVEF＜30%者。
+s122	Risk Assessment	 5)18≤BMI≤26kg/㎡
+s123	Disease	 ⑤存在宫腔镜治疗禁忌者。
+s124	Researcher Decision	 13）研究者认为有不适宜参加本次临床试验的其他情况。
+s125	Laboratory Examinations	 –总胆红素在正常限值内；
+s126	Disease	入选时有心力衰竭、呼吸衰竭、中毒性脑病、渗出性胸膜炎等合并症者。
+s127	Age	 3.年龄在18-75岁之间者；
+s128	Diagnostic	 ① 符合HBeAg阴性慢性乙型肝炎的诊断标准；
+s129	Disease	1.呼吸睡眠暂停综合症患者
+s130	Multiple	(1)年龄40-70岁，男女不限；
+s131	Researcher Decision	 11)研究者认为不适合参加本次试验者
+s132	Laboratory Examinations	 10.HIV、乙型肝炎表面抗原阳性、梅毒抗体阳性、丙肝抗体阳性。
+s133	Multiple	 2.一般情况较差，出现了脓毒血症或感染性休克等症状。
+s134	Multiple	1. 无法或拒绝采集肿瘤样本，包括肿瘤组织块，或恶性胸水，或循环肿瘤细胞等；
+s135	Diagnostic	a) 符合脑梗塞或脑出血诊断标准；
+s136	Oral related	(1)前牙结构发育不良：釉质发育不全、氟斑牙、四环素牙等；
+s137	Diagnostic	 4.符合瘀血阻络证辨证标准；
+s138	Pregnancy-related Activity	1.怀孕中;
+s139	Consent	 C．签署研究知情同意书；
+s140	Diagnostic	 6 中医辨证属气虚血瘀证、脾肾亏虚证者；
+s141	Disease	 4.没有EGFR敏感突变(19-DEL/L858R)；
+s142	Pharmaceutical Substance or Drug	 （5）三个月内用过已知对某脏器有损害的药物或目前正在使用药物者；
+s143	Pharmaceutical Substance or Drug	 2. 曾使用过多柔比星总累积剂量≥300mg/m2或表柔比星总累积剂量≥450mg/ m2，或既往应用蒽环类药物引起心脏病变受试者
+s144	Multiple	 13)不能或不愿提供知情同意或不能遵守试验要求者；
+s145	Multiple	 （8）已知的严重肝功能不全，谷丙转氨酶(ALT)＞正常值的 3 倍或合并肝硬化者；
+s146	Pharmaceutical Substance or Drug	 4.已知对替吉奥胶囊、5-氟尿嘧啶、顺铂过敏者。
+s147	Multiple	1）成都地区社区居民，年龄65～80岁；
+s148	Disease	 （9）严重的心、肺、肾等相关疾病。
+s149	Therapy or Surgery	 8. 既往辅助治疗使用过研究药物；
+s150	Risk Assessment	 ④ 肝功能Child-Pugh A或B级；
+s151	Consent	 （5）提供参加本研究的知情同意书，由受试者本人或法定监护人签署。
+s152	Disease	 2、病毒性肝炎病史；
+s153	Disease	 ①伴有临床动脉硬化性心血管疾病（ASCVD）的患者；
+s154	Age	1）受试者年龄18-80岁
+s155	Multiple	 12. 未绝育的男性须在研究期间、及最后一次信迪利单抗给药和最后一次化疗后，均要求至少180天采取高效避孕。建议在研究治疗首次给药前至少3个月开始采取避孕措施。
+s156	Disease	 6) 精神病患者。
+s157	Neoplasm Status	 （2）入组前发生远处淋巴结转移（腹腔第8组、13组、14组、16组淋巴结）；
+s158	Laboratory Examinations	 6. 坐位收缩压 &lt; 180 mmHg和舒张压 &lt; 110 mmHg。
+s159	Disease	 ③发病后三周（加减一周），其它神经功能稳定者。
+s160	Disease	（1） 筛选期具有疟疾典型症状且血涂片疟原虫阳性者；
+s161	Laboratory Examinations	 2）术前血清HBsAg（+）；
+s162	Addictive Behavior	 (9)药物滥用者、烟酒嗜好者；
+s163	Diagnostic	1.符合糖尿病诊断标准的患者。
+s164	Multiple	 2)严格肝移植术前评估，存在肝移植手术禁忌症；
+s165	Enrollment in other studies	 （5）正在参加或最近30天内参加过另一项临床研究；
+s166	Age	①年龄≥18岁。
+s167	Laboratory Examinations	 3. 血肌酐&gt;265μmol/L;
+s168	Disease	（1）慢性神经、精神或躯体疾病；
+s169	Multiple	（1)年龄18-70岁的女性患者
+s170	Symptom	 5.在过去1 年中，颈肩痛时间至少有30 天；
+s171	Multiple	 8.具有出血倾向或正在接受溶栓或抗凝治疗；
+s172	Disease	 4.术前为窦性心律。
+s173	Multiple	1.已婚中老年男性受试者，年龄40~70周岁；
+s174	Multiple	   5.有献血反应史及曾发生过迟发性昏厥患者。
+s175	Pharmaceutical Substance or Drug	 6.同步使用爱必妥等靶向药物者。
+s176	Disease	1, 继发于房间隔缺损，或室间隔缺损，或动脉导管未闭的肺动脉高压；
+s177	Multiple	 2.咳嗽病程＞4周，干咳或少许白粘痰，咳嗽作为临床主要症状或唯一症状，常在夜间和（或）清晨发作，运动或遇冷空气加重，无喘息及发热等感染征象或经过较长时间抗生素治疗无效。由研究者诊断为咳嗽变异性哮喘。
+s178	Disease	    c）急性/慢性尿路感染，阴道感染和肛周感染的患者;
+s179	Compliance with Protocol	 3.本人能遵守临床研究方案的要求参加访视；
+s180	Diagnostic	 (4)合并其他严重疾病，如严重心肺疾病、血液病、自身免疫病等；
+s181	Disease	 d） 有不稳定心绞痛
+s182	Device	 ③有角膜接触镜配戴史；
+s183	Risk Assessment	 2）GCS＜12分；
+s184	Risk Assessment	1.ASA评分大于三级
+s185	Disease	 5.7.未经控制的精神疾病患者；
+s186	Multiple	 13.患有周围神经系统疾病，四肢肌力在3级及以上者。
+s187	Multiple	 （5）血压未获满意控制的高血压病患者（静息收缩压≥160mmHg，和/或舒张压≥100 mmHg）；
+s188	Risk Assessment	 （4）ESSDAI≥4分；
+s189	Multiple	 ②符合血液高凝状态标准且Khorana评分中低危（0-2分），或符合血液高凝状态标准且Khorana评分高危（≥3分），但存在抗凝治疗禁忌的患者。
+s190	Compliance with Protocol	 3）有严重心理问题无法配合研究者；
+s191	Enrollment in other studies	 7.在本试验开始前30天内参加了其他临床试验的志愿者；
+s192	Multiple	 5. ECOG评分0~2，预期生存期须≥3个月；
+s193	Risk Assessment	 2)睡眠自评量表（SRSS）≧20分的患者。
+s194	Disease	 ⑷痞满症状不能排除心血管疾病（如心功能不全或心肌供血不足引起的痞满）、神经系统疾病（如神经性呕吐等）、胆道疾病（如胆囊结石）者
+s195	Multiple	 3） 脊髓损伤后开展康复训练，症状无明显改善;
+s196	Multiple	 8.近六个月内出现过：心肌梗死，心脏手术，不稳定性心绞痛充血性心力衰竭，暂行性脑缺血或显著脑血管疾病等；
+s197	Enrollment in other studies	 6）最近3个月内参加过临床试验；
+s198	Pregnancy-related Activity	 3. 拟行黄体期长方案助孕；
+s199	Multiple	 8.受试者自愿加入本研究，签署知情同意书，依从性好，配合随访。
+s200	Allergy Intolerance	 （4）对沙利度胺或泼尼松过敏者，曾有严重药物过敏史者；
+s201	Disease	①入院时伴有重症感染或上消化道出血者；
+s202	Multiple	 (5) 患有血液系统疾病、有吸烟饮酒习惯；
+s203	Organ or Tissue Status	 11. 未经控制的内分泌腺体功能异常；
+s204	Disease	 3、水疱皮过厚无法挑破的足癣患者
+s205	Consent	①同意参加本临床试验并签署书面知情同意书；
+s206	Diagnostic	（1）按临床标准或经病理活检获得明确诊断的原发性肝癌或转移性肝癌；
+s207	Disease	 (5) 患有不易控制的精神病史者；
+s208	Multiple	患者年龄在60岁—75岁之间，性别不限；
+s209	Disease	 （3）合并有严重原发性疾病患者和肿瘤患者，病情危重，难以对治疗的有效性和安全性做出确切评价者；
+s210	Pregnancy-related Activity	 9)妊娠、哺乳或有意妊娠，或判断为未使用足够的避孕措施（足够的避孕措施是指宫内节育器、口服避孕药及阻碍措施）。
+s211	Disease	 11.难以控制的高血压
+s212	Consent	 7. 签署知情同意书;
+s213	Multiple	1、市区年龄8～15岁学龄儿童；
+s214	Pregnancy-related Activity	 ⑻ 孕妇或哺乳期女性及尚未采取可靠避孕措施的育龄妇女。
+s215	Disease	 6) 精神疾病患者。
+s216	Allergy Intolerance	 不能耐受阿司匹林和/或氢氯吡格雷或有中性白细胞减少或者血小板减少的病史或者严重肝功能不全禁用氯吡格雷的受试者；
+s217	Laboratory Examinations	 ② WBC≥3.0×109/L；
+s218	Consent	 3.签署知情同意书。
+s219	Disease	 (7)有严重的神经系统疾病史；
+s220	Pharmaceutical Substance or Drug	 ④近一周内未使用过任何治疗失眠的西药、成药、方药、中成药及汤剂者，或在短期((3-5天)内服用过以上药物，已停用7天以上者；
+s221	Allergy Intolerance	 (3)对所需使用的麻醉药物过敏者；
+s222	Disease	 5体表皮肤破损、溃烂或皮肤病患者。
+s223	Disease	 10)甲状腺功能低下者；
+s224	Multiple	 (6)预计依从性差，不能定期访视，或不能按照要求填写患者日记卡者；
+s225	Disease	 F.有严重肺气肿、肺淤血和肺心病者。
+s226	Consent	 4、患者已完全了解该研究性质，自愿参加本试验并签署知情同意书
+s227	Consent	 （6）患者知情，并同意签署知情同意书。
+s228	Age	1.年龄≥6岁；
+s229	Therapy or Surgery	 3. 产后2周以上；
+s230	Multiple	 (3)从未接受过ARV或HIV治疗性疫苗且同意基线访视前不开始ART
+s231	Multiple	 有明显胃肠道损害的病史，研究者判断可能会显著影响替吉奥的吸收，包括对整体药品的吞咽能力；
+s232	Disease	        a)有下肢或骶部指凹性水肿；
+s233	Organ or Tissue Status	 c)一般情况差，心血管、呼吸、肝、肾或其他主要系统功能障碍；
+s234	Disease	 3)无符合排除标准的全身病史。
+s235	Consent	 （11）本人或者监护人能够并愿意签署知情同意书
+s236	Disease	 2)未出现过肠套叠或/和肠梗阻并发症（根据临床症状+影像学结果确定）。
+s237	Disease	 15. 临床未发现（症状，体征，影像学，脑脊液）中枢神经系统白血病，淋巴瘤患者无中枢神经系统转移病灶。
+s238	Risk Assessment	 （2）糖尿病足Ⅱ～Ⅲ级；
+s239	Disease	 （4）适应症：
+s240	Laboratory Examinations	 8、AST、ALT超过正常上限3倍、Ccr≤50ml/min者；
+s241	Researcher Decision	 13)研究者判断患者的情况不适合参加此试验研究。
+s242	Multiple	 ③ 高尿酸血症的患者未开始进行任何降尿酸治疗。
+s243	Disease	 ⑤合并严重的心血管、脑血管、肝、肾、造血系统等原发性疾病或全身衰竭者，糖尿病（血糖控制不良，空腹血糖&gt;10umol/l）、恶性肿瘤、精神病患者；
+s244	Organ or Tissue Status	 7.主要器官功能正常，即符合下列标准：
+s245	Multiple	    （5）妊娠或哺乳期妇女，过敏体质者；
+s246	Laboratory Examinations	 4.屈光参差&lt;1.50D
+s247	Therapy or Surgery	 既往无盆腔器官脱垂手术史
+s248	Therapy or Surgery	1.入组前4接受过周内放射治疗（不包括对骨转移的局部放射治疗）；
+s249	Disease	 4）有精神或神经病患者；
+s250	Disease	 2.传染病患者，例如艾滋病、结核病患者
+s251	Pregnancy-related Activity	 6.孕妇，产后或哺乳期后28天内
+s252	Diagnostic	 ③影像学诊断为椎间盘脱垂、影像或临床有马尾神经受压者；
+s253	Organ or Tissue Status	 6.无明显心肺功能异常；
+s254	Disease	  ⑺反复心力衰竭患者，动静脉瘘可能加重或诱发心力衰竭的病例。
+s255	Disease	 b)急性无痛性视力下降；
+s256	Age	 1、年龄≥40岁；
+s257	Therapy or Surgery	 3）手术方式为乳腺癌改良根治术，且术后&lt;1年；
+s258	Laboratory Examinations	 （10）总胆红素≤1.5倍正常参考值上限
+s259	Multiple	 3)直接侵犯胰腺的T4患者，或有胰腺切除史的患者；
+s260	Diagnostic	 4. 可测量病灶(必须具有至少一个根据 RECIST 1.1 版标准判断的可评价病灶，即最长径至少 10mm)；
+s261	Diagnostic	 5.影像学与/或临床体格检查证实疼痛和日常生活活动受限为膝关节病变所致。
+s262	Multiple	 在被告知实验方案后，不愿意入组或者没有符合医学伦理委员会对本项目的决议。
+s263	Multiple	 （12）患者在过去1月内曾因消化道出血住院或输血，或者有其它临床上显著的出血倾向或凝血障碍导因而不能接受所需的抗血小板治疗，或患者拒绝输血
+s264	Diagnostic	 （2）输卵管造影发现输卵管积水及闭锁；
+s265	Pregnancy-related Activity	 7.孕妇或哺乳期妇女；
+s266	Ethnicity	 （2）国籍为中国；
+s267	Pharmaceutical Substance or Drug	 ③入组前1个月使用激素及免疫抑制剂治疗；
+s268	Consent	 5）无法或不愿意接受叶酸、维生素B12补充，或服用地塞米松。
+s269	Diagnostic	①确诊CD患者（临床诊断和/或病理诊断）
+s270	Therapy or Surgery	 2、择期拟行肝癌切除术、结肠癌根治术患者；
+s271	Multiple	a. 年龄18-70岁；体力状况：ECOG 0－2分；
+s272	Age	 （5）年龄在18周岁到30周岁
+s273	Disease	 (5)因风湿性心脏病、冠心病及其他心脏病合并房颤，引起脑栓塞者；
+s274	Multiple	 9)最近在饮食或运动习惯上有重大变化；
+s275	Laboratory Examinations	 3）发病前mRS≤2；
+s276	Disease	 a)频繁抽搐、昏迷、脑疝
+s277	Multiple	 5 至少1个病灶(既往未接受过放疗)，基线时经CT准确测量显示其最长直径≥10mm（淋巴结除外，淋巴结的短轴必须≥15mm），且依照RECIST v1.1指南，该病灶适合反复准确测量；
+s278	Disease	1.脑器质性疾病或其它有临床意义的并发躯体疾病
+s279	Multiple	 会阴神经障碍或严重并发症不能耐受手术
+s280	Researcher Decision	 13）经治医生认为不适合入选者
+s281	Age	 （4） 年龄45-60岁
+s282	Multiple	 （4）外周血白细胞≥3.5x10 9 ,血小板及肝肾功能正常。
+s283	Multiple	 6）肝肾功能严重异常者（严重肝功能异常：ALT、AST、ALP或TBIL其中任一项&gt;正常值上限2倍；严重肾功能异常：Cr清除率&lt;30 ml/min或血肌酐&gt;177umol/L）；
+s284	Organ or Tissue Status	 4.严重肝功能异常
+s285	Multiple	 5、充血性心衰、肝实质受损（ALT或AST&gt;正常值2倍）、Child C级的肝硬化、严重的肾功能衰竭、呼吸衰竭；
+s286	Disease	 (2) 既往有精神疾病史
+s287	Allergy Intolerance	 (8)已知对本药成分过敏者；
+s288	Researcher Decision	 5.医生认为不适合纳入者。
+s289	Pregnancy-related Activity	 6)妊娠或哺乳期妇女；
+s290	Risk Assessment	 5.肝功Pugh-Child A级。
+s291	Consent	 7患者依从性好，能理解本研究的情况并签署知情同意书。
+s292	Symptom	 (12)迟滞：反应慢(别人说好几句话，患者才能应答一句)，思维转不动、记忆力下降、容易忘事。
+s293	Risk Assessment	 2)发病前mRS评分≥2分；
+s294	Diagnostic	 2. 根据EPOS诊断标准诊断为鼻息肉的患者；
+s295	Multiple	（1）严重心脏瓣膜疾病、周围血管疾病、射血分数低于40％的患者；
+s296	Disease	1.明确有脊柱、会阴部外伤史
+s297	Multiple	 8.合并非恶性肿瘤的严重疾病，将影响患者的依从性或使患者处于危险状态；
+s298	Disease	 2.光敏感或可能因光诱发癫痫者。
+s299	Multiple	 6、应首次发病或过去发病未留有肢体瘫痪等后遗症的再次发病者，且不影响本次NIHSS评分，既往发病者本次入院mRS评分≤1分。
+s300	Multiple	 (6).同意在接受研究药物治疗后至少6个月内采取充分的预防措施防止自己及配偶妊娠（例如避孕药、子宫避孕器械或者采用杀精剂的防护性措施）；
+s301	Symptom	a、有胃食管反流病相关症状，如：烧心、泛酸、胸骨后灼痛、平卧或睡眠时呛咳、咽喉不适等；
+s302	Therapy or Surgery	 2.不进行常规分流
+s303	Therapy or Surgery	 (4)预估ICU住院时间≥48h。
+s304	Pregnancy-related Activity	1.妊娠或哺乳妇女
+s305	Enrollment in other studies	1）本研究开始前4周内曾参加过其他临床试验。
+s306	Disease	 7.伴发有精神类疾病者；
+s307	Disease	 ③排除伴有其他严重的心脑肾等原发性疾病；
+s308	Multiple	年龄≥18岁，性别不限
+s309	Laboratory Examinations	 （6）体检、生化、血尿便常规及心电图、胸片、超声检查异常，且有临床意义者。
+s310	Disease	 ⑤ 心、脑、肾功能衰竭患者
+s311	Consent	 （4）拒绝签署知情同意书参加试验者。
+s312	Multiple	1. 18-65岁肾移植患者、HIV感染者或膀胱癌患者；
+s313	Allergy Intolerance	 4，对速尿过敏
+s314	Disease	 （5）合并肝、肾及造血系统等严重原发性疾病，精神病患者
+s315	Disease	 11.四周内存在感染，存在应激状态的患者。
+s316	Multiple	 ④皮肤破溃或严重皮肤过敏患者。
+s317	Age	 （2）年龄20～45（含20、45）周岁；
+s318	Special Patient Characteristic	 4）有正常的智力水平,可准确地理解整个实验中的动作指令；
+s319	Diagnostic	 b. 分期检查发现中枢神经系统包括脑，脊髓，眼，脑神经，和/或脑膜以外淋巴瘤侵犯的证据；
+s320	Laboratory Examinations	 （2）FMA小于36.3°；
+s321	Organ or Tissue Status	 （3）并发严重心肺功能不全者。
+s322	Pharmaceutical Substance or Drug	 e.3个月内服用过抗抑郁剂药物或其他有口干副作用的药物者；
+s323	Disease	 2）严重慢性并发症；肿瘤病史；其他内分泌疾病；消化吸收功能障碍；
+s324	Disease	a．有全身系统疾病史；
+s325	Multiple	 （8）卒中后严重残疾，基线时MRS评分&gt;4分的患者；
+s326	Disease	 慢性肾病
+s327	Researcher Decision	 （14）研究者认为其不适合参加本试验的其他情况。
+s328	Risk Assessment	 ②BMI&gt;=28kg/m2；
+s329	Pregnancy-related Activity	 11）妊娠期、哺乳期妇女及试验期间或服药停止后3个月内计划生育者；
+s330	Multiple	 （3）年龄在 15－45 岁之间，病程 3 个月以上，性别不限。
+s331	Symptom	 5.鼻腔及鼻咽部有阻塞者；
+s332	Multiple	 9. FS-LASIK术后1周，fBUT≤5s/ SchirmerⅠ（无表面麻醉）≤5mm/5min，且角膜染色（+），且有干眼主诉症状。
+s333	Age	1.18～35岁
+s334	Diagnostic	 3) 已行影像学评估；
+s335	Pregnancy-related Activity	 5、孕妇或哺乳期妇女
+s336	Disease	 3、严重糖尿病急性并发症
+s337	Symptom	 (2) 以膝前痛为主的患者；
+s338	Allergy Intolerance	 6. 过敏体质及对多种药物过敏症；
+s339	Enrollment in other studies	 7) 3个月内参加过其它临床试验者；
+s340	Age	 （2）年龄在18-75岁之间；
+s341	Laboratory Examinations	 （3）冠脉造影显示：单支或多支血管包括前降支、回旋支、右冠脉（含主要分支血管，分支直径须≥2.25mm），CAG狭窄超过50%。由两名独立术者判断至少一处病变需要PCI者
+s342	Multiple	 6. 器官及骨髓功能正常，定义如下：白细胞计数 ≥4, 000/μL，血红蛋白≥9 g/dL (未输血的情况下)，中性粒细胞计数 ≥2, 100/μL，血小板计数 ≥100, 000/μL，总胆红素&lt; 1.5 倍正常值上限，AST (SGOT)/ALT (SGPT) ≤2.5 倍正常值上限，血肌酐 ≤ 1.5倍正常值上限。
+s343	Therapy or Surgery	 5) 异体器官移植史
+s344	Allergy Intolerance	 （5）既往对受试药物或其所含成分有过敏者。
+s345	Disease	 3、有LHRHa以及化疗禁忌证
+s346	Therapy or Surgery	  6) 器官移植或拟进行器官移植者；
+s347	Age	 2、年龄18-70岁；
+s348	Risk Assessment	 （5）GRACE 评分&lt;140 分的中、低危患者；
+s349	Age	①年龄≥18岁者；
+s350	Disease	   胸腔积液；双侧胸腔积液；恶性胸腔积液；渗出性胸腔积液；漏出性胸腔积液；结核性胸膜炎；肿瘤伴胸膜转移；多浆膜腔积液。
+s351	Multiple	1）门诊患者，年龄18岁～65岁（包括18岁和65岁），性别不限；
+s352	Disease	 D 有尖端扭转型室性心动过速（TdP）病史的患者；
+s353	Pregnancy-related Activity	 7. 妊娠或哺乳期或计划在一年内怀孕；
+s354	Consent	 未签署书面知情同意书
+s355	Disease	 明显的括约肌障碍
+s356	Risk Assessment	 （4）符合术后肺部并发症高危患者标准（Canet评分&gt;=45分）。
+s357	Consent	 (2) 患者不愿意接受临床资料调查。
+s358	Laboratory Examinations	 （2）生化检查需符合以下标准：Crea和BIL ≤ 1.0倍正常值上限（ULN），ALT和AST≤ 2.5倍正常值上限（ULN）
+s359	Compliance with Protocol	   能够依从研究方案和随访流程；
+s360	Risk Assessment	 6.NIHSS于脑卒中后一星期内23分或以下；
+s361	Disease	 e)与食管运动功能异常相关的全身系统疾病（例如：硬皮病）
+s362	Allergy Intolerance	 6.已知对该类药物过敏者及过敏体质者。
+s363	Laboratory Examinations	 d.HIV血清学检查阴性
+s364	Capacity	 ④不能获取大便样本；
+s365	Enrollment in other studies	 10)筛选前30天内参加了其他的药物或医疗器械临床试验的患者；
+s366	Disease	 (3)子宫内膜异位症者
+s367	Multiple	（1）经病理诊断确诊为非小细胞肺癌，TNM分期在IIB以上者；
+s368	Disease	   3）ST段抬高型心肌梗死
+s369	Disease	 6.无物理治疗相关禁忌症；
+s370	Risk Assessment	 6.ECOG评分0-2分
+s371	Receptor Status	1.非石蜡包埋组织切片样本；
+s372	Multiple	 5.卒中临床表现持续至少30分钟，在治疗前未有明显改善。
+s373	Disease	 CE5.患有不受控制的房颤
+s374	Multiple	1严重腰椎间盘突出，具有手术指征的患者。
+s375	Disease	 （3）术后经病理学确诊的复发性肝细胞癌患者；
+s376	Blood Donation	 7、入选前3个月内献血者。
+s377	Diagnostic	广泛型侵袭性牙周炎：参照1999年牙周病分类法国际研讨会所制定的AgP诊断标准，具体如下：
+s378	Multiple	1.年龄18-75岁之间，进展期胃癌患者；
+s379	Laboratory Examinations	 9.绝对淋巴细胞计数 ≥ 100/ uL；
+s380	Multiple	  1) 年龄18～40岁（包括18岁和40岁），男女不限；
+s381	Disease	 2.认知功能障碍、痴呆患者；
+s382	Disease	 ③双侧或多灶性起源的癫痫；
+s383	Sign	 5.活动性胃肠道出血；
+s384	Pregnancy-related Activity	 不孕年限1年以上
+s385	Diagnostic	 2)经过血细胞计数、骨髓形态学、骨髓活检、流式检查和细胞遗传学检查，诊断为中低危的MDS患者；
+s386	Multiple	 （4）合并心、肺、肾等重要脏器严重器质性病变，术前评估手术风险高，风险评分≥3分者；
+s387	Data Accessible	 4. 住院病史及影像学资料不全患者
+s388	Age	 2. 18-45周岁
+s389	Consent	 5、受试者自愿并签署知情同意书。
+s390	Laboratory Examinations	 —肌酐≤1.25倍正常值上限(ULN)
+s391	Multiple	 （3）志愿入选合作，并签知情同意书，同意坚持治疗中途不间断者。
+s392	Addictive Behavior	 ③药物依赖；
+s393	Multiple	 5.患者生命体征稳定：包括收缩压120-220mmHg之间、心率40-100次/分，指氧饱和度≥92%，体温≤38.5度
+s394	Allergy Intolerance	 5. 对舒肝宁注射液组方药物过敏者；
+s395	Disease	  发育性颈椎管狭窄症。
+s396	Addictive Behavior	 （7）患者有醺酒或者药物成瘾史；
+s397	Pregnancy-related Activity	 9.妊娠或哺乳期妇女；
+s398	Multiple	 3.年龄在18-75周岁，男女不限；
+s399	Multiple	 3. 持续气流受限（吸入支气管扩张剂后的FEV1/FVC&lt;0.7）；
+s400	Disease	 6.患有先天性肾上腺皮质增生/皮质醇增多症/分泌雄激素的肿瘤/库欣综合征/甲状腺功能紊乱/促性腺激素低下/高催乳素血症疾病/早发性卵巢功能不全/ 功能性下丘脑性闭经/糖尿病
+s401	Multiple	 ③ 初中以上文化水平，阅读报纸无障碍者。
+s402	Multiple	 7.严重肾功能不全，血清肌酐＞265umol/L者；
+s403	Allergy Intolerance	 (20) 不能耐受活性炭者；
+s404	Disease	 (5)葡萄膜炎病史；
+s405	Special Patient Characteristic	 6.每周使用电脑时间不少于20 小时；
+s406	Multiple	 2.恶性肿瘤正在接受治疗且预期寿命&lt;2年（由研究组医师判断）
+s407	Disease	 4.合并心肝肾等重要器官和（或）造血系统等严重原发疾病者；
+s408	Laboratory Examinations	 4.N末端前脑钠肽＞125 pg/mL。
+s409	Disease	 3.急性感染者，及严重感染未控制或高热患者；
+s410	Researcher Decision	 15)研究者认为依从性差，或具有任何不宜参加此试验因素的受试者。
+s411	Disease	 2)P-R间期＞240ms的Ⅰ度房室传导阻滞的患者；
+s412	Consent	1. 患者或其法定监护人签署知情同意书；
+s413	Age	 ②年龄满18周岁及以上；
+s414	Enrollment in other studies	 4)3个月内参加过其他临床试验者
+s415	Disease	1.行乳突缩腔的患者；
+s416	Multiple	 （5）过去未服用降压药物者或者已服用一种西药降压药物至少14天(只能是钙离子拮抗剂、血管紧张素转化酶抑制剂、血管紧张素II受体拮抗剂）但血压仍未达标者；
+s417	Sign	 2.中等量丘脑出血患者（10-30ml);
+s418	Pharmaceutical Substance or Drug	 8. 既往曾服用DHEA等雄激素制剂者；
+s419	Therapy or Surgery	 6)最近一次治疗所带来的毒副作用应得到了恢复，与最近一次化疗至少间隔4周；最近一次的免疫治疗至少经过3个半衰时间；
+s420	Pregnancy-related Activity	 （7）孕期或哺乳期妇女及计划在研究期内怀孕的妇女等；
+s421	Consent	 2.不同意参加研究
+s422	Therapy or Surgery	 4、手术均由我科同一组医师实施;
+s423	Multiple	 7)试验前3个月内参加献血且献血量&gt;400mL，或接受过输血；
+s424	Disease	 （3）诊断有增生性糖尿病性视网膜病变；
+s425	Disease	 （4）有精神病史无法合作的患者
+s426	Laboratory Examinations	 血小板≥50×109/L，
+s427	Disease	 （5）合并其他严重内脏器官疾病者；
+s428	Researcher Decision	 (7) 研究者认为不适宜参加临床试验者。
+s429	Organ or Tissue Status	 5. 合并心、肺、肝、肾等重要脏器的功能障碍；
+s430	Addictive Behavior	 7. 病人目前或最近的3年内酗酒或滥用违禁药物。
+s431	Device	   2）放射学检查肺部有病灶。
+s432	Consent	 4)自愿加入本实验，并签署知情同意书。
+s433	Disease	 6、严重糖尿病（采取血糖控制措施后，空腹血糖仍大于8mmol/L）；
+s434	Pharmaceutical Substance or Drug	 (8)试验开始前两周内使用过任何其他药物者；
+s435	Disease	 2.合并其他恶性肿瘤需要治疗者；
+s436	Pregnancy-related Activity	（1）孕妇，哺乳期和可能妊娠的妇女
+s437	Diagnostic	 e)B超检查高回声的黏膜下层结构局部或全部消失，或进行性肿大
+s438	Consent	 （7）患者知情同意。
+s439	Researcher Decision	 4.研究者认为存在可能损害受试者或者导致受试者无法满足或执行研究要求的任何状况
+s440	Disease	 c)文身病程大于1月。
+s441	Symptom	 3 意识清楚，能配合摆位及治疗；
+s442	Therapy or Surgery	1. 复治患者；
+s443	Therapy or Surgery	① 胃癌根治术切口长度≥10cm
+s444	Pregnancy-related Activity	 8.妊娠或准备妊娠妇女，哺乳期妇女；
+s445	Multiple	 13)筛选前6个月内或筛选时FibroScan评分≤17.5 kPa，或12个月内的肝组织活检证明无肝硬化；
+s446	Disease	1. 慢性诱导性荨麻疹，如：人工荨麻疹，冷接触性荨麻疹，延迟压力性荨麻疹，热接触性荨麻疹，日光性荨麻疹，振动性荨麻疹或血管性水肿，胆碱能性荨麻疹，水源性荨麻疹，接触性荨麻疹，运动诱导性荨麻疹等有明确诱因者；
+s447	Education	 （2）受教育年限≥5年；
+s448	Multiple	 （4）中重度活动期溃疡性结肠炎患者（即Mayo评分≥6分；Mayo内镜评分≥2分）14例，缓解期溃疡性结肠炎患者6例：
+s449	Disease	 2、排除既往有慢性疾病史；
+s450	Multiple	 3)SARA评分步态子项评分2-5分（含边界值）；能完成8MW试验；
+s451	Symptom	 3.患者具有典型的上腹部及背部慢性疼痛。
+s452	Therapy or Surgery	 (4)入组的3个月前曾进行心理治疗。
+s453	Consent	 5）能理解研究目的，并签署知情同意书。
+s454	Special Patient Characteristic	 5.生活或工作环境不适宜配戴接触镜，例如空气中弥散粉尘、药品、气雾剂（如发胶、挥发性化学物）、灰尘等；
+s455	Disease	1.患有严重的心肺、血液系统疾病、恶性肿瘤、免疫功能低下患者及精神病、糖尿病患者；
+s456	Age	 ②年龄18-65岁。
+s457	Pregnancy-related Activity	 14) 怀孕及处于哺乳期者。
+s458	Diagnostic	1、符合COPD诊断标准的患者；
+s459	Multiple	 14） 试验前3个月内曾献血或失血≥400 ml者、接受输血或使用血制品者；
+s460	Therapy or Surgery	 6.产科手术患者
+s461	Disease	 2.存在可能导致严重出血的疾病
+s462	Organ or Tissue Status	 （8）凝血障碍
+s463	Multiple	北京市区60岁以上的健康老年妇女；
+s464	Diagnostic	1.符合急性冠脉综合征(包括不稳定型心绞痛和非ST抬高型心肌梗死)诊断；
+s465	Multiple	 2. 白细胞数量低于临床参考值下限，以及患有其他血液系统疾病者；
+s466	Multiple	 2、正常眼压性青光眼：具有类似于POAG的视盘改变，RNFL及视野损害，24h眼压测量均≤21mmHg, 房角开放
+s467	Non-Neoplasm Disease Stage	 3．UICC 分期为Ⅱ期-Ⅳb期的鼻咽癌患者；
+s468	Multiple	 ④患者有酗酒或麻醉药物滥用、吸毒史，或具有精神病史（如精神分裂症、强迫症、抑郁症）、对抗性格、不良动机、多疑或其他情感或智力问题等可能影响参与此研究的知情有效性的情况；
+s469	Disease	 5.有精神病史、心理或智力障碍。
+s470	Multiple	 2、既往无明确原发性高血压病史，且近4周未服用抗高血压药；一周内非同日连续3次测量右上肢肱动脉坐位收缩压在130~139mmhg,和/坐位舒张压85~89mmhg。
+s471	Disease	1. 颌面部骨折外伤
+s472	Age	①大于18岁；
+s473	Addictive Behavior	 5)有吸毒和/或酗酒史（即男性每周饮酒超过28个标准单位，女性每周饮酒超过21个标准单位【1标准单位含14g酒精，如360mL啤酒或45mL酒精量为40%的烈酒或150mL葡萄酒】）。
+s474	Pharmaceutical Substance or Drug	 (3)目标膝关节近3个月内关节腔注射糖皮质激素，或近2周内关节腔注射透明质酸钠，或近2周内接受针刺或艾灸治疗；
+s475	Pharmaceutical Substance or Drug	 5、服用阿司匹林&gt;150mg/d的受试者；
+s476	Disease	 9.首次治疗的肝细胞癌。
+s477	Disease	 5，患者有显著地系统性疾病。
+s478	Laboratory Examinations	 (2)HBsAg阳性≥6月；
+s479	Disease	 8.合并其它严重的器质性疾病及精神疾患；
+s480	Enrollment in other studies	 ⑥正在参加影响本研究结果评价的其它临床试验者。
+s481	Pharmaceutical Substance or Drug	 （4）过夜1mg-LDDST血皮质醇＞1.8 mg/dL
+s482	Laboratory Examinations	 4)评估肾小球滤过率(eGFR)≥30ml/min（Scr-EPI公式）
+s483	Multiple	 5.患者肿瘤组织无EGFR酪氨酸激酶抑制剂敏感性突变和ALK基因重排或不明；
+s484	Multiple	 （4）正规运动康复治疗5年以上上肢功能恢复不满意，继续恢复已停止；
+s485	Data Accessible	 5.筛选期（即治疗阶段开始前的14±3天期间）患者完整完成症状日志记录至少10天；
+s486	Disease	 8.诊断为艾滋病毒/艾滋病或肝脏疾病的患者；
+s487	Risk Assessment	 3.KPS评分&gt;60分；
+s488	Disease	 2）患有视网膜疾病，白内障，青光眼，糖尿病；
+s489	Compliance with Protocol	 （6）未能完成12个月临床、冠状动脉造影及IMR随访；
+s490	Multiple	有创呼吸机辅助呼吸通气大于48h 的存在膈肌功能障碍的成年患者（年龄大于18岁），且满足撤机前以下筛查条件：
+s491	Life Expectancy	 13. 预期寿命≤12个月；
+s492	Disease	 （4）已确诊合并阿尔茨海默病、额颞叶痴呆、尼曼-匹克病等非帕金森综合征谱系的认知障碍疾病；
+s493	Laboratory Examinations	 2、提取的DNA的OD值（OD260/OD280）未在1.6-2.0之间，经重新提取或纯化仍无法达到要求的样本应剔除。
+s494	Therapy or Surgery	 （3）患者需要急诊手术；
+s495	Disease	 2）术前2周呼吸道感染。
+s496	Multiple	1.病理诊断明确的盆、腹腔恶性肿瘤手术术后的患者（涵盖普外科、妇科、泌尿外科等科室，包括腔镜手术及开腹手术）
+s497	Laboratory Examinations	 12)心电图异常有临床意义；
+s498	Allergy Intolerance	1. 已证实对阿帕替尼和/或其辅料过敏者；
+s499	Multiple	 3. 无明显支架内（参照血管直径大于等于2.5mm）再狭窄大于等于50%或原位血管狭窄。
+s500	Multiple	 （5）合并有严重心血管病变的患者，如严重心律失常（房颤、病态窦房结综合征等）、心功能不全（NYHA分级≥III级）、不稳定型心绞痛、急性心肌梗死等；
+s501	Disease	 ④严重心、脑、肺、肝、肾疾病者；
+s502	Therapy or Surgery	 (9)需进行西医系统治疗的患者。
+s503	Therapy or Surgery	 2）前期接受过任何其他细胞免疫治疗
+s504	Disease	 5)初治或有子宫出血的子宫颈癌患者；
+s505	Laboratory Examinations	 2.左心射血分数&lt;40%，左房内径&gt;55mm
+s506	Disease	 （5）合并心脑血管、肝、肾、造血系统等严重原发性疾病及精神病患者；
+s507	Multiple	1.近期有出血史致贫血；
+s508	Consent	 9 病人自愿参加。
+s509	Laboratory Examinations	 8.TG&gt;5.6mmol/L
+s510	Pregnancy-related Activity	 ⑥妊娠试验阳性或哺乳期妇女；
+s511	Disease	①排除其他原因所致的晕厥， 包括体位性低血压、 主动脉瓣狭窄、 病态窦房结综合征、 高度房室传导阻滞、 室性心律失常、 肺动脉高压、 肥厚型心肌病、 短暂性脑缺血发作、 癫痫、脑梗死或脑出血后遗症、 锁骨下静脉窃血综合征及药物诱发的晕厥等；
+s512	Diagnostic	 3.经临床医生判断，患者可诊断AUB-O。
+s513	Disease	 (8)有精神性疾病无法合作的受试者；
+s514	Therapy or Surgery	 9)正在使用免疫抑制剂或全身性类固醇治疗（吸入治疗除外；
+s515	Addictive Behavior	 4.无药物滥用史。
+s516	Age	1.年龄40到75 岁之间；
+s517	Diagnostic	 (5) 从CT/MRI判断,无法估计血肿原始的位置;
+s518	Life Expectancy	    ⑤预计生存期＞3个月；
+s519	Laboratory Examinations	 2.血尿酸（sUA）&gt;480umol/l（8mg/dl）；
+s520	Therapy or Surgery	 ⑨颅脑肿瘤术后（此次）
+s521	Disease	 （4）有6个月及其以上的月经相关性无先兆偏头痛病史；
+s522	Pregnancy-related Activity	 7.有妊娠可能但未采取充分措施避孕者；
+s523	Laboratory Examinations	 2.24小时蛋白尿定量&gt; 3.0g者；
+s524	Laboratory Examinations	 2. 疤痕最大径在5cm以内；
+s525	Diagnostic	1.符合产后下腰痛的诊断标准；
+s526	Therapy or Surgery	 4.进行颅脑神经外科手术；
+s527	Multiple	1. 合并其他慢性疾病并处于非稳定期，会加重化疗副反应的疾病。
+s528	Disease	 （1）糖尿病性溃疡恶变者；
+s529	Diagnostic	 ⑤术前认知发育筛查（DST）发现发育迟缓；
+s530	Pharmaceutical Substance or Drug	 3. 是否已行至少一种抗心律失常药物治疗而无效
+s531	Multiple	 2)男性受试者体重不低于50 公斤。体重指数（BMI）＝体重（kg）/身高2（m2），体重指数在18~28范围内（包括临界值）；
+s532	Laboratory Examinations	1.肝脏内单一病灶最大径≤1cm，多发病灶最大径之和≤3cm
+s533	Enrollment in other studies	  8．三个月内参加过其它临床试验者
+s534	Sign	 ⑥ 有异常性器官出血而未经确诊者；
+s535	Enrollment in other studies	①目前正在参加其他的临床研究。
+s536	Enrollment in other studies	 4.在3个月内参与其他类似的临床研究
+s537	Age	（1）入选年龄： 18-70 周岁；
+s538	Enrollment in other studies	 3 正在参加其他临床试验的患者；
+s539	Risk Assessment	 3.ECOG体力状态评分0-2或KPS功能状态评分≥70分；
+s540	Pregnancy-related Activity	 ③ 哺乳期妇女
+s541	Enrollment in other studies	 7. 在用研究药物前3个月内参加过其它药物研究
+s542	Diagnostic	（1）符合以上脑卒中及睡眠障碍的中西医诊断标准；
+s543	Multiple	 (5)由于智力或行为障碍不能充分配合试验和调查者。
+s544	Researcher Decision	 (16)研究者判定其它原因不适合参加本研究的患者。
+s545	Multiple	 4、伴有至少一个心血管危险因素：腹型肥胖（腰围男性≥85cm,女性≥80cm）或超重（体重指数≥27kg/m2）、空腹血糖受损或糖尿病、吸烟、缺乏体力活动、血脂异常、早发心血管病或中风病家族史（一级直系亲属的男性发病年龄&lt;55岁，女性发病年龄&lt;65岁）。
+s546	Multiple	 4、服用非甾体抗炎药后出现支气管痉挛、鼻炎、荨麻疹反应的患者；
+s547	Smoking Status	 3. 以吸烟斗作为主要或次要烟草使用方式
+s548	Disease	 (2) 严重的先天性心脏病、心肌梗死后遗症、肥厚性心肌病、扩张性心肌病等器质性心脏病史者
+s549	Age	 （1）年龄＜40岁；
+s550	Disease	 （3）伴发其他恶性肿瘤；
+s551	Disease	 （2）无运动系统障碍的患者；
+s552	Researcher Decision	 ⑨研究者认为不适宜参加试验的其他情况。
+s553	Enrollment in other studies	 （4）三个月内参加过其他临床试验且经过筛选入组者；
+s554	Disease	（1） 有原发病（如恶性肿瘤、自身免疫性疾病、感染性疾病、结核、艾滋病、慢性活动性肝炎、慢性炎症性疾病、神经肌肉疾病、内分泌疾病，呼吸、循环和消化道疾病等）可以解释的慢性疲劳者；
+s555	Enrollment in other studies	 p)3个月内参加过其他药物试验者；
+s556	Diagnostic	 ②符合北京儿童医院重症医学科（包括PICU和CCU）收入条件，诊断或拟诊为重症革兰阳性（G+）球菌感染；
+s557	Disease	 2.经检查诊断为急性化脓性扁桃体炎、下呼吸道感染、急性鼻窦炎、结核、麻疹、百日咳、白喉者；
+s558	Multiple	 ?合并以下疾病或状况：新近诊断有中枢神经系统转移的患者（既往发生过中枢神经系统转移，经治疗后中枢神经系统病灶影像学不可见者不在此列），严重或不能控制的全身性疾病或任何不稳定的系统性疾病（包括但不限于活动性感染、三级高血压、不稳定心绞痛、充血性心力衰竭、Ⅲ或Ⅳ级心脏病、严重的心律失常、肝肾功能不全或代谢性疾病），既往有明确的神经或精神障碍史等。
+s559	Multiple	 2.年龄在50岁-65岁，男女均可。
+s560	Device	 d. 有中心静脉置管者与动脉导管的患者；
+s561	Disease	主要排除标准： 符合以下任何一项标准的患者将从本试验中排除： 1.合并严重且不可控制的感染；
+s562	Therapy or Surgery	 8.正接受第二代TKI治疗的患者，获得分子学反应MR4.5（BCR-ABL1IS≤0.0032%，ABL1转录本 &gt; 32000）及更深的分子学反应至少1年，至少有2次RQ-PCR结果。
+s563	Addictive Behavior	 (5)试验开始前30天内酗酒或者试验前6个月内存在酒精或药物依赖者；
+s564	Special Patient Characteristic	（1）流动工人：指进入城镇务工的非流入地户口人员；
+s565	Multiple	 （2）乙肝所致肝衰竭合并其他病毒感染：抗HAVIgM、抗HCV、抗HDV、抗HEV以及抗HIV任何一项阳性；
+s566	Multiple	1.3个月内曾使用激素类避孕药（包括口服避孕药，皮下植入避孕药，孕激素宫内释放装置等。
+s567	Pharmaceutical Substance or Drug	 6使用激酶类药物或抗自由基剂；
+s568	Researcher Decision	 7.其他研究者认为不适合入组的情况。
+s569	Disease	 4.肿瘤符合手术适应症，无手术禁忌症，包括严重的心脑血管疾病、呼吸衰竭、精神障碍等
+s570	Pharmaceutical Substance or Drug	 3.研究前使用第三代AI（阿那曲唑、来曲唑或依西美坦）至少30天；
+s571	Multiple	（1）年龄18～70岁；性别不限。
+s572	Risk Assessment	 ②BMI&lt;28kg/m2；
+s573	Symptom	 2)无眼球震颤，具有良好的固视能力；
+s574	Laboratory Examinations	 15)SBP＞160mmHg和（或）DBP＞95mmHg者；
+s575	Therapy or Surgery	 治疗组：
+s576	Laboratory Examinations	 4.入组当天尿检阿片类定性测试为阴性的。
+s577	Multiple	年龄在25岁以下或50岁以上者，绝经患者；
+s578	Disease	 （3）严重心、肺、肾等脏器疾病者。
+s579	Disease	 9、既往没有中枢神经疾病史，如不可控的脑转移、癫痫；
+s580	Laboratory Examinations	 1)血液学：中性粒细胞绝对值≥1.5×109/L，血小板计数≥75×109/L，血红蛋白≥90g/L；
+s581	Consent	 3.同意行肝脏活检穿刺术
+s582	Researcher Decision	 3、研究者认为不适合入组的其他情况
+s583	Multiple	 10)发病后已使用过治疗本病的其它药物者；
+s584	Multiple	 f)筛选期或试验第1天用药前心电图检查结果出现以下任一异常情况：男性QTc&gt;450 ms，女性QTc&gt;470 ms；IIo房室或IIIo 房室传导阻滞；心率&lt;45次/min或&gt;100次/min；PR间期&gt;200 ms 或 &lt;110 ms；QRS波群&gt;120 ms；病理性的Q波（按照Q波&gt;40 ms界定）；室性预激综合征。
+s585	Laboratory Examinations	 5)凝血功能：PT≤正常上限1.5倍；
+s586	Therapy or Surgery	1.术后发生非计划再次手术；
+s587	Multiple	 3.初诊初治的PMR患者，未使用过激素治疗
+s588	Laboratory Examinations	 7.眼压正常（不大于21mmHg）
+s589	Multiple	 2.符合DSM-IV“重型抑郁障碍”诊断标准，55岁以后有过至少一次抑郁发作；
+s590	Enrollment in other studies	 7.参加其他临床实验的病人
+s591	Allergy Intolerance	(1)病人对丙泊酚中/长链脂肪乳过敏，或对大豆、花生或赋形剂中任何成份过敏者；
+s592	Researcher Decision	 （22）研究者认为有不宜入选的其它原因。
+s593	Multiple	 9)精神病患者或其它原因不能依从治疗；
+s594	Multiple	1.男性和非妊娠哺乳期的女性门诊患者，年龄≥30且≤70岁，符合1998年WHO2型糖尿病诊断标准；
+s595	Disease	 8.HIV感染
+s596	Allergy Intolerance	 8. 对单克隆抗体任何成分过敏；
+s597	Allergy Intolerance	1) 有特定过敏史者（哮喘、麻疹、湿疹等），或过敏体质（如对两种或以上药物、食物和花粉过敏者，或已知对本药组分或类似物过敏者）；
+s598	Pharmaceutical Substance or Drug	 （5）1年内未服用过核苷类抗病毒药物，6个月内未进行过肝纤维化药物治疗；
+s599	Diagnostic	1.结核性胸膜炎组诊断需符合结核性胸膜炎诊断；恶性胸腔积液组胸腔积液有明确病理学依据
+s600	Age	 6、18～60岁；
+s601	Disease	 （2）继发性AML患者（包含继发MDS的AML）
+s602	Consent	 7)能理解本研究的情况并签署知情同意书。
+s603	Pharmaceutical Substance or Drug	 （10）正在服用营养保健品的受试者在试验期间应当维持原食用习惯，并且和研究中心说明；
+s604	Laboratory Examinations	 18)筛选时空腹血糖值&gt;13.9mmol/L，或HbA1c&gt;10.5%或&lt;7.0%；
+s605	Multiple	 (3)年龄不足20岁或超过55岁者，妊娠或哺乳期患者。
+s606	Disease	 2睡眠呼吸暂停综合征、睡眠周期性腿动、癫痫等
+s607	Multiple	 有严重腹泻或者呕吐，活动性上消化道溃疡或吸收不良
+s608	Disease	 3. 结肠癌、慢性肠道疾病（IBD、IBS等）患者。
+s609	Consent	   ⑦患者知情同意。
+s610	Compliance with Protocol	 10.在研究期间患者需有能力且自愿进行随访。
+s611	Disease	 3.流感重症或危重病例；
+s612	Disease	(1)有心理疾病史或精神疾病史或患精神疾病者
+s613	Multiple	 ? 患者伴不稳定性心绞痛、急性心梗、近3月内接受CABG或PCI术.
+s614	Pregnancy-related Activity	1)怀孕；
+s615	Therapy or Surgery	1、既往参加过肺康复训练；
+s616	Pharmaceutical Substance or Drug	 3．滥用非甾体类抗炎药物或其他COX-2抑制剂，研究者认为会干扰研究结果的解释；
+s617	Consent	1. 不愿意接受调查、检查者；
+s618	Sign	 （5）合并有胃肠道症状（如便秘、腹泻等）；
+s619	Risk Assessment	1）美国麻醉医师协会分级≥Ⅲ级；
+s620	Organ or Tissue Status	 8.严重的肾功能不全；
+s621	Disease	A. 高血压患者且血压无法控制者；
+s622	Life Expectancy	 5)预计生存期超过3月。
+s623	Disease	 5）有可能会干扰参与研究的伴随疾病或状况，或有任何可能影响受试者安全的严重医学障碍（例如，不可控的心脏疾病、高血压，活动性或无法控制的感染、活动性乙肝病毒感染）；
+s624	Diagnostic	 (2) 临床经病理学检查确诊为胃癌患者，依据NCCN指南（2017.V5）；
+s625	Disease	 2）不能控制的疾病如严重高血压或糖尿病等；
+s626	Pregnancy-related Activity	 12.女性患者处于孕期或哺乳期。证实患者未处于孕期必须由筛选期进行的血清?-人绒毛膜促性腺激素(?-hCG)妊娠试验的阴性结果来确证。对于绝经后或手术造成的不孕女性不需进行妊娠试验。
+s627	Disease	 （6）合并胆道或胃肠道疾病，如胃溃疡、胰腺炎、克罗恩病、急性胃肠炎、胆道梗阻、胆囊炎、寄生虫感染等可能影响肠道菌群疾病；
+s628	Capacity	 f)患者对植入效果有正确预期，能够准时完成术后评估
+s629	Disease	 ⑶ 脑出血、蛛网膜下腔出血、短暂性脑缺血发作（TIA）；
+s630	Therapy or Surgery	 （2）出疹时间超过两周者；
+s631	Laboratory Examinations	 d.患侧腕关节伸展&gt;20°，拇指和其余四指中两指的掌指关节和指间关节伸展&gt;10°，且动作在1 min内可重复3次；
+s632	Risk Assessment	 ④汉密顿焦虑量表（HAMA）≥14分, 汉密顿抑郁量表HAMD(17项)≤17分
+s633	Multiple	 3.合并需要手术切除子宫的子宫肌瘤、子宫腺疾病、宫颈疾病等
+s634	Symptom	 （3）过去1月几乎每天都有中等或明显的膝关节疼痛；
+s635	Therapy or Surgery	（1）多器官联合移植者；
+s636	Multiple	 2.年龄≥70岁或≥60岁伴ECOG PS≥2分
+s637	Therapy or Surgery	1.有过手术减肥或滥用减重药经历者；
+s638	Enrollment in other studies	 （9）治疗前3个月内曾参加过其他药物临床试验者；
+s639	Laboratory Examinations	 ⑤3mg/L&lt;超敏C反应蛋白≤15mg/L。
+s640	Consent	（1）患者拒绝参加本研究。
+s641	Multiple	 2)既往糖尿病以及用药史。
+s642	Risk Assessment	 3. 新生儿窒息( Apgar评分1分钟＜7分)；
+s643	Multiple	 4. 心肺功能之不穩定狀況，例如心肺衰竭、心律不整(使用心律調節器)等
+s644	Therapy or Surgery	 6. 患者入组前至少经过12周的维持透析治疗（3次透析/周），且计划在研究期间继续维持透析治疗；
+s645	Risk Assessment	 (3)清洗期内连续3天有2天哮喘症状评分记分在2分以上
+s646	Laboratory Examinations	 3.糖化血红蛋白：7-12%；
+s647	Researcher Decision	 6.实验室检查有显著异常，研究者认为不适合参加和完成研究的：
+s648	Pregnancy-related Activity	 5. 妊娠或哺乳期妇女；
+s649	Device	 ⑤心脏起搏器置入患者
+s650	Multiple	 （2）肺功能检测FEV1%&lt;30%；
+s651	Neoplasm Status	 4、没有肿瘤转移的临床证据
+s652	Multiple	①既往或目前有精神病史，不能接受跟踪随访者；
+s653	Compliance with Protocol	 （6）预期不能在指定临床实验中心随访者；
+s654	Disease	 ②6-磷酸-葡萄糖脱氢酶缺乏症（蚕豆病）患者；
+s655	Researcher Decision	 14.研究者认为不适合入组的其他情况。
+s656	Enrollment in other studies	 5、在入选研究前的3 个月内服用其他试验药或参与了其他临床试验
+s657	Disease	1)直肠癌、肛裂等严重肛肠病患者；
+s658	Disease	 2、合并继发性或原发性各系统靶器官严重病变、精神病、肿瘤患者
+s659	Consent	 4. 自愿参加并签署知情同意书。
+s660	Pregnancy-related Activity	 (4)孕妇、哺乳期妇女或有生育要求的育龄妇女
+s661	Diagnostic	 3符合便秘诊断标准；
+s662	Diagnostic	a. 符合1995年全国第四届脑血管会议制定的诊断标准；
+s663	Diagnostic	1)符合DSM-IV诊断标准的分裂样情感性精神障碍、心境障碍、精神发育迟滞、广泛性发育障碍、谵妄、痴呆、记忆障碍或其他认知障碍者；
+s664	Pharmaceutical Substance or Drug	 3 长期服用激素患者
+s665	Disease	 ⑧无活动性炎症和眼表疾病，无严重的眼附属器病变及眼部器质性病变；
+s666	Disease	1.糖尿病患者；
+s667	Therapy or Surgery	 3. 需要进入儿童重症监护室治疗的患儿。
+s668	Disease	 2、无严重的心血管疾病、肿瘤和不能用药物控制的其他疾病；
+s669	Healthy	 2)全身健康状况差
+s670	Disease	 3. 无心血管病史;
+s671	Multiple	（1）主因口腔颌面部恶性肿物就诊，拟行单侧或双侧颈淋巴清扫术者；
+s672	Diagnostic	1.符合以上诊断标准，确诊为复杂先天性心脏病患者并行体外循环术者；
+s673	Disease	1排除其他内分泌障碍
+s674	Consent	 3.自愿加入本研究，签署知情同意书；
+s675	Pregnancy-related Activity	 3.妊娠期、哺乳期或意向妊娠的妇女；
+s676	Enrollment in other studies	 c) 在过去6个月内参加过I、II期临床试验或者3个月内参加过III、IV期临床试验；
+s677	Diagnostic	⑴ 确诊HFMD危重症患儿(标准参照6.1.1.部分)；
+s678	Multiple	 5.活动性溃疡及有出血倾向者。
+s679	Multiple	 5、术后CT平扫蛛网膜下腔出血、病灶内出血（HT2,PH1,PH2型）或远隔区域出血。
+s680	Device	（1）预计合计植入3枚以上支架的患者；
+s681	Multiple	1.术前确诊食管癌且拟行手术治疗的患者。所有患者术前均进行胃镜检查，病理确诊为食管鳞癌，且病理TNM分期不超过T3a期。
+s682	Consent	 4.签署知情同意书，愿意参加该试验
+s683	Age	 3)年龄大于18岁且小于80岁
+s684	Allergy Intolerance	（1）已知对透析器材料、血液灌流器有过敏反应、禁忌证或不能耐受者；
+s685	Therapy or Surgery	 ④新辅助化疗患者。
+s686	Multiple	1）男性，≥18岁
+s687	Consent	 5）患者知情同意。
+s688	Disease	 2.伴有糖尿病、心脑血管、下肢动脉疾病、下肢皮肤感染性疾病的患者
+s689	Disease	 2）知情同意书签署前已经诊断为ITP至少12个月（慢性ITP标准）的病人；
+s690	Disease	 (4)存在慢性鼻炎、扁桃体肥大等上气道疾病
+s691	Multiple	1.年龄55-80周岁（含55和80周岁），性别不限；
+s692	Multiple	1)年龄18-80岁，男女不限
+s693	Diagnostic	1. 通过McCarty标准诊断为慢性膝焦磷酸钙沉积病；
+s694	Age	 3．年龄18-70岁， 预期寿命大于6月
+s695	Disease	 2.意识清醒，无精神障碍，无严重心、肝、肾脏疾病的招募患者；
+s696	Disease	 5.合并严重营养不良、佝偻病，以及心、脑、肝、肾及造血等系统严重原发性疾病者；
+s697	Organ or Tissue Status	 5.肝功能（谷丙转氨酶、谷草转氨酶≤2.5倍正常值上限）
+s698	Diagnostic	 C.膝关节内侧间隙软骨存在破坏（MRI显示）
+s699	Multiple	 6)病情危重，难以对药物有效性及安全性作出确切评价者等。
+s700	Multiple	 2）中晚期原发性支气管肺癌患者化疗或放疗后；
+s701	Multiple	 [2]年龄18-65岁，性别不限；
+s702	Diagnostic	 (3)符合中医肝脾不和证辨证标准
+s703	Sign	 V.术后16小时内排气排便；
+s704	Disease	 11)患有任何增加出血性风险的疾病，如痔疮、急性胃炎或胃及十二指肠溃疡等；
+s705	Disease	 4. 急性胃或十二指肠溃疡；
+s706	Disease	 11)有吞咽困难或任何影响药物吸收的胃肠道疾病史。
+s707	Multiple	 4、肥胖(BMI&gt;30);
+s708	Allergy Intolerance	 7.既往对同类药物不耐受或过敏史
+s709	Organ or Tissue Status	 （5）有严重肾功能障碍
+s710	Pregnancy-related Activity	 （4） 具有生育能力的女性受试者在试验期间（共32周）同意采取双重医学认可的可靠避孕措施，即包括一种药物和一种非药物的避孕措施；男性受试者的配偶若具有生育能力，每次性生活时同意采用乳胶避孕套进行避孕；
+s711	Disease	合并其他肝炎病毒、人类免疫缺陷病毒（human immunodeficiency virus，HIV）感染的患者；
+s712	Consent	 2、自愿签署知情同意书者；
+s713	Therapy or Surgery	1.受试者在筛选前28天内接受试验治疗(或5个半衰期，以较长者为准)。
+s714	Therapy or Surgery	 2. 符合机器人胰体尾癌切除术适应症；
+s715	Disease	①明确的失代偿性肝硬化；原发性/转移性肝癌；自身免疫性肝病；药物性肝病；酒精性肝病；中毒性肝损伤。
+s716	Healthy	（1）全身状况良好。
+s717	Oral related	①牙齿缺失；
+s718	Data Accessible	 （6）未按规定用药，无法判断疗效或资料不全等影响疗效或安全性判断者；
+s719	Age	①年龄18-70岁
+s720	Consent	 3、签署知情同意书；
+s721	Multiple	 （2） 经传统药物治疗（如使用稳定剂量的NSAIDs治疗1个月、口服糖皮质激素或DMARD药物治疗3个月）仍属活动期AS者；
+s722	Risk Assessment	 3）卡氏评分（Karnofsky）≥60分；
+s723	Multiple	 （4）依从性较差者如：患有精神类疾病、癫痫、癌症者。
+s724	Disease	1.單側阻塞型中風
+s725	Diagnostic	 经头颅CTA或DSA确诊为动脉瘤性蛛网膜下腔出血
+s726	Disease	 5.严重骨关节疾病不能行截石位患者；
+s727	Healthy	 4)身体健康：全身体格检查正常；实验室血常规、肝功能、肾功能检查正常。
+s728	Pregnancy-related Activity	 （3） 妊娠或哺乳期妇女；
+s729	Laboratory Examinations	 (2)Cobb角为10°-20°；
+s730	Receptor Status	 4.第3天可移植胚胎数≥4个。
+s731	Multiple	 （5）凝血功能不全，有严重出血倾向，不能抗凝治疗或抗凝禁忌；
+s732	Allergy Intolerance	 6.已知对美能过敏者；
+s733	Therapy or Surgery	 b)且抑酸治疗有效但需长期服药；
+s734	Consent	 5)受试者自愿受试并签署知情同意书。
+s735	Consent	 6. 知情同意。
+s736	Laboratory Examinations	 2、收缩压≤90mmHg；
+s737	Consent	 4. 患者和家属知情并同意合作者。
+s738	Multiple	 2）蒙特利尔认知评估量表（MoCA）得分&lt;26,若受教育年限≤12 年则在得分基础上加 1 分
+s739	Addictive Behavior	 (3) 物质滥用。
+s740	Multiple	 16.无法去除感染源，如无法外科干预或引流。
+s741	Disease	 2.存在明显认知功能障碍；
+s742	Diagnostic	（1）患者均经病理组织学确诊为胃癌；
+s743	Multiple	 4)乙型肝炎表面抗原检测阳性、活动性肝炎者；
+s744	Diagnostic	①临床诊断为晚期癌症患者；
+s745	Multiple	1.女性，年龄40-60岁；
+s746	Therapy or Surgery	 3）术后实际机械通气时间累计 ≤ 24小时；
+s747	Laboratory Examinations	①青霉素阳性患者
+s748	Disease	 2、发病7天以内；
+s749	Disease	 （5）患者有活动性乙肝，丙肝，HIV或者梅毒等病毒及细菌真菌感染；
+s750	Life Expectancy	 9. 预期寿命&lt;13个月
+s751	Gender	 2 女性.
+s752	Compliance with Protocol	 拒绝行经口直接胆道镜检查或者不愿参加此项研究者。
+s753	Therapy or Surgery	 (6)拟行择期四肢或者腹腔手术的患者；
+s754	Pregnancy-related Activity	 9.妊娠期、哺乳期妇女或有妊娠计划者；
+s755	Disease	 2、需积极或长期治疗的恶性肿瘤患者、先天性凝血因子异常(血友病) 、严重溶血性及再生不良性贫血、需终身治疗的全身性自生免疫病患者。
+s756	Disease	 2. 1-5处转移灶，可为非区域淋巴结转移、骨转移或内脏转移。
+s757	Multiple	 3 2-8岁择期行髋关节手术儿童
+s758	Disease	 (3) 既往神经肌肉疾病史者；
+s759	Laboratory Examinations	 2. 满足至少一下一项：pT3a-4，R1，pN1，GS≥8或PSA＞0.1ng/ml；
+s760	Laboratory Examinations	</bmi<28.0kg>
+s761	Consent	 4)拒绝签署知情同意书者。
+s762	Consent	（1）患者及其法定代理人自愿参加研究，且签署知情同意书；
+s763	Pregnancy-related Activity	（1）妊娠或哺乳期妇女；
+s764	Pregnancy-related Activity	 (3)妊娠、哺乳期妇女或未采取有效避孕措施的育龄期妇女；
+s765	Disease	 （6）合并其他影响康复的疾病者；
+s766	Disease	 3)既往发生过眼球破裂伤等眼外伤者；
+s767	Laboratory Examinations	 3)DAS28-ESR大于或等于3.2
+s768	Pharmaceutical Substance or Drug	 8. 近 1 个月内服用过肠道微生态制剂、抗生素或抗抑郁药物
+s769	Risk Assessment	 3 轻度至中度ED（国际勃起功能评分（IIEF-5）在8和21之间；
+s770	Life Expectancy	1. 预期生存率小于12个月。
+s771	Therapy or Surgery	 3.本次治疗不单行LC术；
+s772	Disease	①6个月内有脑中风或心肌梗死者
+s773	Pregnancy-related Activity	 3.妊娠期患者；
+s774	Diagnostic	(1)符合HP根除指征的HP阳性NUD患者；
+s775	Pharmaceutical Substance or Drug	 （4）抗结核治疗期间使用其他肝损药物；
+s776	Laboratory Examinations	 （8）白细胞计数≥3.0×109/L；
+s777	Risk Assessment	 4.KPS评分80分以上
+s778	Multiple	 3、窝沟有龋损能卡住探针
+s779	Disease	(1)有严重的精神病;
+s780	Enrollment in other studies	 13) 正参加其它临床研究的患者。
+s781	Disease	 （2）严重感染；
+s782	Disease	 （4）合并特应性皮炎等严重过敏性疾病；
+s783	Pharmaceutical Substance or Drug	 （10）入选前1个月内口服糖皮质激素；
+s784	Researcher Decision	 14)研究者认为有不适宜参加本次临床试验的其他情况。
+s785	Disease	 2椎管内麻醉的禁忌症
+s786	Disease	1.脊柱原发肿瘤；
+s787	Multiple	 3.年龄18-70岁，性别不限。
+s788	Healthy	 2.健康者
+s789	Disease	 2.股骨近端形态分型Dorr A或B型；
+s790	Allergy Intolerance	 (12)对干扰素及聚乙二醇过敏者；
+s791	Multiple	 4）A2DS2评分5分，即为卒中相关性肺炎高危人群，见附件1。
+s792	Compliance with Protocol	 7. 研究过程中不愿或不能依从研究方案；
+s793	Pharmaceutical Substance or Drug	 （5）分组前4周内未使用包括PDE5-i在内的其他方式治疗ED；
+s794	Disease	 10. 存在影响认知能力的神经或精神异常，包括中枢神经系统的转移；
+s795	Special Patient Characteristic	1）中途退出者；
+s796	Pregnancy-related Activity	 (3)孕妇及哺乳期妇女；
+s797	Pregnancy-related Activity	 2) 妊娠和哺乳期妇女；
+s798	Multiple	 (2) 初始测定P/F≤150mmHg的患者（血气分析的测定条件如①），暂不存在紧急气管插管的指征，先给予无创正压通气支持（根据临床医生的经验设置模式及参数，使SPO2维持在88%～92%）4h，然后在CPAP≥5cmH2O或者EPAP≥5cmH2O的条件下，重复测定动脉血气分析，150mmHg＜P/F≤300mmHg
+s799	Disease	 14)伴严重并发症者，如活动性消化道大出血、穿孔、黄疸、胃肠梗阻、活动性的严重临床感染（ &gt; 2 级感染标准）者；
+s800	Age	1.年龄在2岁至65岁（含2岁及65岁）
+s801	Laboratory Examinations	 （3）患侧直腿抬高试验小于 50° ；
+s802	Age	 ②年龄18-70周岁；
+s803	Therapy or Surgery	 3)姑息治疗；
+s804	Multiple	 4．使用肝素或华法令抗凝存在绝对禁忌症
+s805	Therapy or Surgery	 4.有腹部手术史者（如胆囊切除术等）；
+s806	Laboratory Examinations	 10 实验室检查：总胆红素＞2倍正常值上限(ULN)；AST和/或ALT＞2.倍正常值上限（ULN）；
+s807	Age	 6.年龄：≥18岁；
+s808	Diagnostic	 2.发病72小时内，符合急性缺血性脑卒中的TOAST分型标准，并经神经影像学检查证实；
+s809	Researcher Decision	 （2）存在明显的其他异常体征、实验室检查和临床疾病，根据研究者的判
+s810	Allergy Intolerance	1) 对拟使用药物中的任何成分，有过敏史的患者。
+s811	Address	（1）本市户籍常驻人口，或本地居住3年或以上；
+s812	Multiple	 8.晚期肿瘤患者或预计1年内会死亡者；
+s813	Multiple	 4）筛选前 30 天内有活动性上消化道溃疡的证据，或筛选前 1 年内有上消化道出血、或有胃十二指肠穿孔、梗阻病史的患者；
+s814	Therapy or Surgery	 3 既往行青光眼或白内障手术的患者；
+s815	Therapy or Surgery	 4. 术中中转开胸手术；
+s816	Disease	 8)合并风湿或结缔组织病
+s817	Compliance with Protocol	 5. 有能力并愿意遵守研究方案的要求；
+s818	Therapy or Surgery	 （7) 满足手术及麻醉要求。
+s819	Multiple	 4. 显著的再狭窄病变或者狭窄病变（直径大于等于2.5mm），需要行PCI或者CABG者。
+s820	Disease	 （3）伴有糖尿病、冠心病、肝硬化、消化性溃疡、哮喘、慢阻肺、地中海贫血、慢性肾功能不全等基础疾病者，以及6-磷酸葡萄糖脱氢酶（G-6-PD）缺乏病史者；
+s821	Enrollment in other studies	 7.3个月内参加其他临床研究者；
+s822	Consent	 4）该患者的主管医师必须愿意完成并提交完整的病例报告表。
+s823	Disease	1.临床影像学LDCT检测发现肺部偶发结节人群；
+s824	Multiple	 ④.主要脏器（心、肝、肺、肾）功能基本正常，PS评分：0-2级；
+s825	Disease	 6.难以控制的高血压（血压≥160/100mmHg）患者。。
+s826	Symptom	（1）心肌缺血的临床症状
+s827	Therapy or Surgery	 11. 器官移植需要免疫抑制治疗者
+s828	Capacity	 （5）因精神障碍等不能完成问卷填写者；
+s829	Disease	 （3）存在抗栓药物应用的禁忌症；
+s830	Multiple	 (5)实验室检查(血尿常规、肝肾功能和心电图检查)发现血液、心、肝和肾功能不全者。
+s831	Disease	 B.除原位宫颈癌、基底或鳞状细胞皮肤癌、（乳腺）导管内原位癌、器官局限性前列腺癌4种可行根治性切除的恶性肿瘤，5年内患有任何其他恶性肿瘤。
+s832	Pregnancy-related Activity	 2）既往月经规律，有过妊娠史
+s833	Life Expectancy	 4）患者预期寿命少于一年；
+s834	Disease	 （4）病理检查为非小细胞肺癌。
+s835	Therapy or Surgery	 （5）近1个月内未接受过影响本试验观察的药物治疗；
+s836	Laboratory Examinations	1.停经时间≥12周
+s837	Consent	 4、签署知情同意书。
+s838	Laboratory Examinations	 （2）体温≥38°C；
+s839	Multiple	1.合并其他肿瘤或以下全身系统疾病：严重凝血功能障碍、重要脏器功能失代偿者、无法控制的严重的心身疾病。
+s840	Disease	 2.合并有心脑血管系统、神经系统、免疫系统等重大系统性疾病，或高血压、糖尿病等慢性疾病控制不良者；
+s841	Disease	 ③ 合并可能影响针刺治疗的其他疾病，如凝血障碍、白细胞减少、起搏器、癫痫，或抗凝治疗；
+s842	Therapy or Surgery	 5.重大手术史患者。
+s843	Multiple	 5.有精神疾病，或者精神类药物滥用史；
+s844	Disease	 2.失能残障病人,同时具有视觉和听觉残疾的病人
+s845	Allergy Intolerance	1. 对头孢菌素类药物过敏患者
+s846	Risk Assessment	①ASA分级Ⅰ~Ⅱ；
+s847	Multiple	 （5）孕、产妇，严重的肝肾功能损害或装有心脏起搏器；
+s848	Ethnicity	 3. 汉族；
+s849	Symptom	 4.患者处于严重的焦虑、兴奋或抑郁状态
+s850	Consent	 6)受试者志愿受试并签署知情同意书。
+s851	Therapy or Surgery	 6、体力状况及脏器功能允许接受较大的腹部手术。
+s852	Enrollment in other studies	 ⑽ 4周内参加过其它药物临床试验者；
+s853	Enrollment in other studies	(1)2个月内参加过其它临床试验者。
+s854	Disease	 7.慢性胃病史
+s855	Disease	 (9)筛选前诊断为肝脏恶性肿瘤或其他未治愈的恶性肿瘤；
+s856	Multiple	 5、各器官功能基本正常（在无持续支持治疗的情况下，入组前1周之内的实验室检查结果）；中性粒细胞＞1.5×109/L，血小板＞100×109/L，血红蛋白＞9.0g/dl；胆红素正常或＜1.5×ULN；AST(SGOT)、ALT(SGPT)＜2.5×ULN（如果肝转移则＜5× ULN）；血清肌酐＜1.5× ULN；
+s857	Therapy or Surgery	 5.就诊时间限定于伤后24h内。
+s858	Multiple	 25. 任何显示长期使用苯二氮?类药物的迹象（如失眠，焦虑，痉挛）或筛选期尿液药物筛查呈现阳性；
+s859	Multiple	 9.育龄妇女必须在入组前7天进行妊娠试验（血清或尿液），且结果为阴性，并且愿意在试验期间和末次给药后8周采用适当的方法避孕。对于男性，应用手术绝育，或同意在试验期间或末次给药后8周采用适当的方法避孕。
+s860	Risk Assessment	 2.一般状况好，ECOG  PS评分：0-1分；
+s861	Disease	 ④精神病患者；
+s862	Multiple	 —姑息放疗结束 ≥ 3个月，且复发转移灶为非放疗病灶者
+s863	Disease	 （2）青光眼患者；伴有严重或不稳定的心、肝、肾、内分泌、血液等内科疾病者；伴有其他导致急性或慢性炎性细胞因子水平异常的疾病（如系统性红斑狼疮、溃疡性结肠炎等）；
+s864	Addictive Behavior	 5.酒精或药物依赖.
+s865	Pregnancy-related Activity	 （4） 育龄期女性受试者需满足下列条件：
+s866	Disease	1.ⅠA2 to ⅡA的早期宫颈癌患者。
+s867	Sign	 3.外侧间室软骨厚度完整
+s868	Capacity	    b）候选人难以收集尿液，找不到助手;
+s869	Compliance with Protocol	 （7）受试者可以按期复诊；
+s870	Laboratory Examinations	 12、乙肝表面抗原（HBsAg）、丙肝抗体（HCV-Ab）、获得性免疫综合征抗体（Anti-HIV）及抗梅毒螺旋体抗体（TP-Ab）任意一项阳性者。
+s871	Diagnostic	 2.术前X线及CT证实为骨质疏松型三、四部分肱骨近端骨折
+s872	Life Expectancy	 8. 预计生存期大于3个月。
+s873	Disease	1.生殖道炎症者（淋病、衣原体感染、念珠菌阴道炎、滴虫性阴道炎、细菌性阴道病等）；
+s874	Compliance with Protocol	 （4）饮食依从性差；
+s875	Disease	 5.4.活动性乙型肝炎病毒(HBV，Hepatitis B Virus)、丙型肝炎病毒（HCV，Hepatitis C Virus）和艾滋病病毒（HIV, Human Immunodeficiency Virus）感染；
+s876	Consent	 ⑷受试者知情同意，自愿受试并签署知情同意书
+s877	Consent	(1)在任何研究相关程序开始前获得患者签署的知情同意书。患者对本研究已充分了解并自愿签署书面知情同意书；
+s878	Diagnostic	- 参照美国类风湿病学会(American College of Rheumatology，ACR)1995年制定的膝关节骨关节炎诊断标准；
+s879	Addictive Behavior	 12) 药物滥用者或试验前3个月使用过软毒品（如：大麻）或试验前一年及试验期间服用硬毒品（如：可卡因、苯环己哌啶，等）者；
+s880	Laboratory Examinations	 4.肾功能：血肌酐≤150 umol/L；
+s881	Organ or Tissue Status	 8.合并肾功能衰竭的患者；
+s882	Disease	 2，结石位于肾脏或输尿管
+s883	Multiple	 15.有合并其他感染或者疾病需要长期服用口服抗生素经过/不经过肠道代谢的情况；
+s884	Compliance with Protocol	 4、依从性好，能够定期随访者。
+s885	Allergy Intolerance	 （5）过敏体质者或对治疗药物已知有过敏者；
+s886	Sign	①因各种原因已发生上肢水肿的患者；
+s887	Age	 4.年龄在18-60岁之间；
+s888	Laboratory Examinations	 （3）深夜血浆皮质醇＞50 nmol/L（1.8 mg/dL）；如≤1.8 mg/ dL，可排除CS
+s889	Therapy or Surgery	1.在参加该研究前的4周内接受过除TACE以外的任何局部治疗（包括但不限于手术、放疗、肝动脉栓塞、肝动脉灌注、射频消融、冷冻消融或经皮乙醇注射）；
+s890	Multiple	本研究是一个前瞻性、随机、单盲、对照试验。自2015年7月－2015年12月，于天津市第三中心医院心脏中心住院并接受直接ＰＣＩ治疗的连续ASTEMI患者，按照1:1随机进入试验组(缺血后处理组) 或对照组。
+s891	Diagnostic	1、经胃镜和病理组织学检查符合胃癌前病变（轻度和中度异型增生）诊断的门诊及住院患者；
+s892	Pregnancy-related Activity	 12.妊娠、哺乳期或计划在试验期间怀孕的妇女；
+s893	Disease	 2.无基础疾病
+s894	Pregnancy-related Activity	 （2）妊娠或哺乳期妇女；
+s895	Therapy or Surgery	 11.目前使用香豆素（或华法林）或在手术时间超过6个月的肝素治疗。
+s896	Organ or Tissue Status	 10.严重凝血功能异常者；
+s897	Allergy Intolerance	 15，对研究中所使用的药物过敏；
+s898	Allergy Intolerance	 2. 患儿易过敏或有蓝芩口服液过敏史；
+s899	Multiple	 ②病灶短期内扩张迅速，需要手术或介入栓塞治疗；
+s900	Sign	 10、入组前90天发生颅内出血者（脑实质出血、蛛网膜下腔出血、硬膜下/外出血）；
+s901	Multiple	 6.同侧腋窝淋巴结明显肿大互相融合或与其他组织粘连固定的；
+s902	Multiple	 ⑤同意进行左房去神经化治疗。同意参加临床试验并签署知情同意书，并同意按照验证方案要求进行随防评价。
+s903	Enrollment in other studies	 9.在访视1前30天内或者5个半衰期内（以较长的时间为准）曾使用了其他试验药物；
+s904	Encounter	 ①因病、婚、产、事假在家休息、外出进修护士或护工
+s905	Diagnostic	 2) 符合高血压诊断标准的1、2、3级原发性高血压
+s906	Consent	 ④能够通过文字或口头沟通交流，自愿加入本研究的患者。
+s907	Encounter	1）2019-2021年我中心确诊的CTEPH患者（根据国内肺动脉高压指南临床诊断标准），
+s908	Disease	 3.合并严重或不稳定的躯体疾病者；
+s909	Therapy or Surgery	 5.过去3月未使用任何精神药物或接受任何心理或行为治疗，未使用过激素治疗，选择性雌激素受体调节剂，或者芳香化酶抑制剂、大豆提取物或草药；
+s910	Disease	 3.既往无长期高原暴露史
+s911	Consent	 ?患者或家属拒绝参加该研究；
+s912	Consent	 3.自愿参加并签知情同意书。
+s913	Disease	 （4）急性心肌梗死病史；
+s914	Age	1.年龄：18-75岁；
+s915	Diagnostic	 （3）诊断符合1995年全国第四届脑血管病学术会议通过的各类脑血管病诊断要点
+s916	Researcher Decision	 11. 研究者认为受试者有潜在风险或有干扰受试者的任何其他因素
+s917	Diagnostic	 6)骨扫描证实骨转移灶&gt;5个单位；
+s918	Disease	 6)神经肌肉性疾病。
+s919	Disease	 3、脑外伤患者家属
+s920	Consent	 6)GCP规定，患者自愿参加，并签订知情同意书。
+s921	Multiple	 3)ECOG评分≤1分，预计生存期至少3个月；
+s922	Disease	 3.病程2年以上
+s923	Multiple	1、病理证实为脑胶质瘤或PCNSL或TDLs，其中TDLs患者影像需符合：①T2WI最大病灶的最长直径≥20mm，②具有占位效应；
+s924	Laboratory Examinations	 6. HIV，HBV，HCV检测阳性的患者。
+s925	Compliance with Protocol	 6.不能依从本研究步骤者。
+s926	Multiple	 5)达到HCG注射日的标准(两个主导卵泡直径≥18mm)。
+s927	Disease	 3、合并严重肝、肾功能损害者；
+s928	Organ or Tissue Status	 5)血象、心、肺、肝、肾等主要器官功能基本正常。
+s929	Multiple	 5. 无法吞咽、慢性腹泻和肠梗阻，明显影响药物服用和吸收；
+s930	Laboratory Examinations	 10.血甘油三酯&gt; 500 mg/dL 或&gt; 5.7 mmol/L 的受试者（依据CTCAE5.0 版）；
+s931	Multiple	 （2）移植术前发现多源发癌或肝癌有肝外转移灶者
+s932	Sign	1. 视力 ≥20/40
+s933	Consent	 (7) 根据GCP规定，获取知情同意，志愿受试
+s934	Disease	 （14）全身极度衰竭；
+s935	Age	 （3）年龄18～75岁；
+s936	Multiple	 3.体重：不低于50kg，身体质量指数【BMI=体重（kg）/身高2（m2）】在19～26范围内（包括边界值）；
+s937	Laboratory Examinations	 2. 血肌酐及转氨酶水平正常；
+s938	Disease	①胆总管结石合并其他胆道疾病者或肿瘤者；
+s939	Therapy or Surgery	1）同时使用其它血液净化法并对试验的评价有影响的患者
+s940	Multiple	 4）年龄为18～45岁男性受试者（包括18岁和45岁）；
+s941	Disease	 4. 无远处或椎管内播散转移；
+s942	Risk Assessment	 b）且SOFA评分大于等于2分。
+s943	Consent	 (3)拒绝或害怕针刺干预；
+s944	Laboratory Examinations	 （4）入组之前14天内血常规满足：Hb≥80g/L，ANC≥1.0×109/L，PLT≥75×109/L；肝肾功能满足：TBIL≤1.5×ULN，ALT、AST≤ 2.0×ULN、Cr ≤1.5×ULN；
+s945	Multiple	 （3）性别：男女不限，非孕期妇女；
+s946	Non-Neoplasm Disease Stage	 （3） BCLC分期为A期或B期；
+s947	Allergy Intolerance	 3.过敏体质者，或已知对本药及成分过敏者；
+s948	Multiple	 15)  存在EPO抵抗的患者；EPO抵抗指皮下注射rHuEPo达到300IU／(kg?wk)(总量20000IU／wk)或静脉注射rHuEPO500IU／(kg?wk)(总量30000Iu／周)治疗4个月后，Hb仍不能达到或维持靶目标值；
+s949	Compliance with Protocol	 14.依从性差、不能按研究方案完成试验者；
+s950	Diet	 （3）在研究开始2周之前特殊饮食或服用膳食替代品减肥者；
+s951	Gender	1.女性
+s952	Therapy or Surgery	 2. 患者接受综合肺康复干预(CPR 组)或既无运动康复也无药物干预者(non-CPR组)
+s953	Consent	  (5)能够理解本研究的程序和方法，愿意严格遵守临床试验方案完成本试验，并自愿签署知情同意书。
+s954	Multiple	 4. 受试者自愿加入本研究，并签署知情同意书，依从性好，配合随访。
+s955	Therapy or Surgery	 （2）之前接受过手术导致眼球施莱姆氏管上产生疤痕者；
+s956	Multiple	 ●存在没有控制的严重感染；例如：败血症；没有控制的肺炎（经适当抗生素治疗后X线胸片无明显改善）；没有控制的腹腔感染（经适当抗生素治疗后仍有腹膜炎体征、或腹水白细胞计数大于0.1×109／L）等。
+s957	Therapy or Surgery	 ②全身体质较差不能接受SRS
+s958	Consent	 11.不同意签署知情同意书。
+s959	Pregnancy-related Activity	 （6）妊娠及哺乳期妇女；
+s960	Multiple	 （8）眼底筛查有眼病不适宜使用硫酸羟氯喹者。
+s961	Disease	 ④近两周无感染病史；
+s962	Disease	 2.过去6周内胃肠道或泌尿生殖道出血史。
+s963	Disease	 2）中枢神经系统感染；
+s964	Disease	 ③ 多囊卵巢患者；
+s965	Literacy	 3.能够阅读和理解中文
+s966	Therapy or Surgery	 ? 允许骨转移患者接受局部放疗姑息治疗者入组；
+s967	Multiple	①胸部CT检测提示肺部结节病灶。
+s968	Allergy Intolerance	 2.对局麻药和所用全身麻醉药存在或可疑过敏
+s969	Pharmaceutical Substance or Drug	 5)胃镜检查前12周服用过抗生素、铋剂和中成药等药物；
+s970	Diagnostic	 ②符合肾病综合征诊断标准；
+s971	Pregnancy-related Activity	 9.怀孕
+s972	Multiple	 2. 合并肝衰竭、肝硬化（纤维化S4及以上）、肝性脑病、水电解质及酸碱平衡紊乱、消化道出血、感染及其他慢性乙肝严重并发症者；
+s973	Diagnostic	1）符合慢性肥厚性咽炎西医诊断标准；
+s974	Organ or Tissue Status	 5）无心脑等重要脏器功能障碍
+s975	Age	 3.年龄40-70岁
+s976	Consent	 4）自愿签署知情同意书；
+s977	Life Expectancy	 6.预计生存期≥12周；
+s978	Allergy Intolerance	 6、对研究药物过敏者；
+s979	Consent	 5、未取得患者家属同意
+s980	Disease	 ?严重心肺肝肾等器官疾病
+s981	Multiple	（1）受者年龄 18-55岁，男女性别不限；要求实施亲体肾移植，供、受者经术前检查及相关程序符合医学、伦理及法律要求，准备实施亲体肾移植；
+s982	Disease	(1)目前患有严重的心脑血管、造血系统疾病、恶性肿瘤等严重危及生命疾病的患者；
+s983	Pregnancy-related Activity	 （4）伴或不伴不孕史，和（或）伴或不伴潮热出汗、情绪障碍、失眠、记忆力减退、生殖泌尿系萎缩等围绝经期症状；
+s984	Disease	 2. 具有严重的原发性心、肝、肺、肾、血液或影响其生存的严重疾病。
+s985	Pharmaceutical Substance or Drug	  8. 不愿或不能停止在基线检查前至少一个月停止使用已知会导致干眼症的药物（如抗组胺药）的患者。
+s986	Allergy Intolerance	 8.患者对于研究中使用的药物过敏
+s987	Diagnostic	1.经细胞学或组织病理学确诊的非小细胞肺癌局部晚期或晚期患者；
+s988	Therapy or Surgery	 5)术中桡动脉穿刺失败改行股动脉路径；
+s989	Disease	 有乙型肝炎以外的其他肝病史（如脂肪肝、自身免疫性肝病、代谢性肝病等）；
+s990	Disease	1）不受控的阳性感染乙肝或丙肝阳性
+s991	Consent	 （3）签署书面知情同意。
+s992	Multiple	 （二）槟榔颗粒对妇科术后患者胃肠功能的作用：1）妇科术后患者40~75岁；2）胃肠外科：40-80岁之间；3）手术时间：手术时间为0.5-5小时者；4）麻醉时间：1.0-6.5小时者；5）中医证型属于气虚气滞，腑气不通者；6）知情同意者。
+s993	Allergy Intolerance	 5）对治疗药物过敏者。
+s994	Multiple	① 合并预期寿命小于1年的终末期疾病；
+s995	Multiple	 3.无严重脏器功能衰竭和活动性感染；
+s996	Sign	 3、病情稳定，意识清晰
+s997	Organ or Tissue Status	 ③肥胖、肝、肾功能严重异常
+s998	Organ or Tissue Status	 （3）受试者无主要器官的功能障碍；
+s999	Multiple	1.年龄在35岁至70岁之间的男性及非哺乳期或非孕期女性，患者依从性好；
+s1000	Therapy or Surgery	 2．经过手术治疗；
