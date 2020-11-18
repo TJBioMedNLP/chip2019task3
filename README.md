@@ -1,7 +1,7 @@
 # CHIP2019-评测3-临床试验筛选标准短文本分类
-[会议链接](http://cips-chip.org.cn/)
+[第五届中国健康信息处理会议（CHIP2019）](http://cips-chip.org.cn/)
 
-
+[评测](http://www.cips-chip.org.cn:8088/evaluation)
 
 ## 1.任务描述
 
@@ -36,7 +36,7 @@
 #### 评估方法
 
 评估脚本见文件chip2019task3_evaluation.py，输入样例见同级目录
-使用命令 
+使用命令 ：
 
 ```
 python chip2019task3_evaluation.py ./example_gold.txt ./example_system.txt
