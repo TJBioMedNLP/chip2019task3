@@ -1,8 +1,7 @@
-CHIP2019-评测3-临床试验筛选标准短文本分类
+# 第五届中国健康信息处理会议-评测任务三-临床试验筛选标准短文本分类
 
-[第五届中国健康信息处理会议（CHIP2019）](http://cips-chip.org.cn/)
-
-[评测](http://www.cips-chip.org.cn:8088/evaluation)
+- [第五届中国健康信息处理会议（CHIP2019）链接](http://cips-chip.org.cn/)
+- [评测链接](http://www.cips-chip.org.cn:8088/evaluation)
 
 ## 1.任务描述
 
