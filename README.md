@@ -49,18 +49,18 @@
 
 #### 测试数据
 
-​		测试数据见文件test_data.txt，一共7697条。测试集标注数据见文件test_gold_data.txt
+​		测试数据见文件test_data.txt，一共7697条。测试集标注数据见文件test_gold_data.txt。
 
 #### 评估方法
 
-​		评估脚本见文件chip2019task3_evaluation.py，输入样例见同级目录
+​		评估脚本见文件chip2019task3_evaluation.py，输入样例见同级目录。
 ​		使用命令 ：
 
 ​		```python chip2019task3_evaluation.py ./example_gold.txt ./example_system.txt```	
 
 #### 句子类别
 
-​		类别见文件category.xlsx，目前一共包括44类。
+​		类别定义及标注样例见文件category.xlsx，共44种类别。
 
 ## 4.评测结果
 
