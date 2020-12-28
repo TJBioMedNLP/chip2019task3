@@ -5,19 +5,37 @@
 
 ## 1.任务描述
 
-临床试验是指通过人体志愿者也称为受试者进行的科学研究，筛选标准是临床试验负责人拟定的鉴定受试者是否满足某项临床试验的主要指标，分为入组标准和排出标准，一般为无规则的自由文本形式。临床试验的受试者招募一般是通过人工比较病历记录表和临床试验筛选标准完成，这种方式费时费力且效率低下。因此，临床试验面临诸多困境，比如受试者招募难度大，招募时间久，患者流失等等。通过自然语言处理和机器学习的方法对临床试验筛选标准自动解析，并以此构建自动化筛选病人的系统是一个很有前景的研究热点，具有很大的实际应用前景和医学临床价值。
+> 临床试验是指通过人体志愿者也称为受试者进行的科学研究，筛选标准是临床试验负责人拟定的鉴定受试者是否满足某项临床试验的主要指标，分为入组标准和排出标准，一般为无规则的自由文本形式。临床试验的受试者招募一般是通过人工比较病历记录表和临床试验筛选标准完成，这种方式费时费力且效率低下。因此，临床试验面临诸多困境，比如受试者招募难度大，招募时间久，患者流失等等。通过自然语言处理和机器学习的方法对临床试验筛选标准自动解析，并以此构建自动化筛选病人的系统是一个很有前景的研究热点，具有很大的实际应用前景和医学临床价值。
+>
 
-本次评测任务的主要目标是针对临床试验筛选标准进行分类，所有预料均来自于真实临床试验，并经过了初步处理和人工标注。
+本次评测任务的主要目标是针对临床试验筛选标准进行分类，所有文本数据均来自于真实临床试验，经过了初步处理和人工标注。
 
 ## 2.任务说明
 
-在本次评测中，我们给定事先定义好的44种筛选标准类别和一系列中文临床试验筛选标准的描述句子，参赛者需返回每一条筛选标准的具体类别。示例如下：
+在本次评测中，我们给定事先定义好的44种筛选标准语义类别和一系列中文临床试验筛选标准的描述句子，参赛者需返回每一条筛选标准的具体类别。
+
+示例如下：
 
 | ID   | 输入(筛选标准)         | 输出(类别)              |
 | ---- | ---------------------- | ----------------------- |
 | S1   | 年龄>80岁              | Age                     |
 | S2   | 近期颅内或椎管内手术史 | Therapy or Surgery      |
 | S3   | 血糖<2.7mmol/L         | Laboratory Examinations |
+
+44中预定义的语义类别：
+
+|#|group topics|semantic categories|
+|---|---|----|
+|1|`Health Status`|`Disease` `Symptom` `Sign` `Pregnancy-related Activity` `Neoplasm Status` `Non-Neoplasm Disease Stage` `Allergy Intolerance` `Organ or Tissue Status` `Life Expectancy` `Oral related`|
+|2|`Treatment or Health Care`|`Pharmaceutical Substance or Drug` `Therapy or Surgery` `Device` `Nursing`|
+|3|`Diagnostic or Lab Test`|`Diagnostic` `Laboratory Examinations` `Risk Assessment` `Receptor Status`|
+|4|`Demographic Characteristics`|`Age` `Special Patient Characteristic` `Literacy` `Gender` `Education` `Address` `Ethnicity`|
+|5|`Ethical Consideration`|`Consent` `Enrollment in other studies` `Researcher Decision` `Capacity` `Ethical Audit` `Compliance with Protocol`|
+|6|`Lifestyle Choice`|`Addictive Behavior` `Bedtime` `Exercise` `Diet` `Alcohol Consumer` `Sexual related` `Smoking Status` `Blood Donation`|
+|7|`Data or Patient Source`|`Encounter` `Disabilities` `Healthy` `Data Accessible`|
+|8|`Other`|`Multiple`|
+
+
 
 ## 3.评测数据
 
