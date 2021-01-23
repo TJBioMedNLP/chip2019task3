@@ -54,7 +54,9 @@
 ​		评估脚本见文件chip2019task3_evaluation.py，输入样例见同级目录。
 ​		使用命令 ：
 
-​		```python chip2019task3_evaluation.py ./example_gold.txt ./example_system.txt```	
+``` python
+	python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
+```
 
 #### 句子类别
 
@@ -111,7 +113,7 @@
 
 **概述文章：**
 
-```
+```json
 @article{
   title={基于人工智能的中文临床试验筛选标准文本分类研究},
   author={宗辉,张泽宇,杨金璇,雷健波,李作峰,郝天永,张晓艳},
@@ -123,7 +125,7 @@
 
 **第二名文章：**
 
-```
+```json
 @article{
   title={基于迁移学习和集成学习的医学短文本分类},
   author={张博,孙逸,李孟颖,郑馥琦,张益嘉,王健,林鸿飞,杨志豪},

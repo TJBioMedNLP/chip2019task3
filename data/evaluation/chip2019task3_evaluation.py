@@ -65,7 +65,7 @@ class Record_results(object):
 
     def _get_results(self):
         for s in self.processed_sentences:
-            print(s)
+            # print(s)
             if self.gold_results[s] == self.system_results[s]:
                 self.records[self.gold_results[s]]["tp"] += 1
             if self.gold_results[s] != self.system_results[s]:
