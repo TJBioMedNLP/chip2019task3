@@ -52,8 +52,12 @@
 #### 评估方法
 
 ​		评估脚本见文件chip2019task3_evaluation.py，输入样例见同级目录。
+
 ​		使用命令 ：
-​		```python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt```
+
+```
+python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
+```
 
 
 #### 句子类别
