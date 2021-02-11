@@ -1,7 +1,5 @@
 # 第五届中国健康信息处理会议-评测任务三-临床试验筛选标准短文本分类
 
-[注：所有数据只用于本次评测，禁止后续使用相关数据。](http://www.cips-chip.org.cn:8088/evaluation) 如需使用数据，请联系zonghui@tongji.edu.cn获得授权使用。
-
 - [会议链接](http://cips-chip.org.cn/)
 - [评测链接](http://www.cips-chip.org.cn:8088/evaluation)
 
