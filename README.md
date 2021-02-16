@@ -111,9 +111,11 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 | 8        | 郑州大学                        | zzunlp       | 蔡林坤，刘涛                         | 临床试验筛选标准短文本分类                     |
 | 9        | 新疆大学                        | A&D          | 阿依古丽·哈力克，吴迪、李磊          | 基于ERNIE的文本分类                            |
 
-## 5.评测文章
+## 5.发表文章
 
-**概述文章：**
+基于此评测数据发表的文章：
+
+**评测概述文章：**
 
 ```
 @article{
@@ -125,7 +127,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 }
 ```
 
-**第二名文章：**
+**评测第二名文章：**
 
 ```
 @article{
@@ -136,6 +138,20 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
   doi={http://dx.doi.org/10.13451/j.sxu.ns.2020084}
 }
 ```
+
+**其他：**
+
+```
+@article{
+  title={An Ensemble Learning Strategy for Eligibility Criteria Text Classification for Clinical Trial Recruitment: Algorithm Development and Validation},
+  author={Kun Zeng, Zhiwei Pan, Yibin Xu, Yingying Qu},
+  journal={JMIR Medical Informatics},
+  year={2020},
+  doi={http://dx.doi.org/10.2196/17832}
+}
+```
+
+
 
 ## 6.评测组织者
 
