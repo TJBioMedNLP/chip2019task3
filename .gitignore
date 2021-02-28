@@ -1,1 +1,6 @@
-./data/标注指南.xlsx
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+data/标注指南.xlsx
