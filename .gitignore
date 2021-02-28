@@ -3,4 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+
 data/标注指南.xlsx
+data/test/test_data.txt
