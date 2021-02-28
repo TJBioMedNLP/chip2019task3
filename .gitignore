@@ -7,3 +7,6 @@ __pycache__/
 
 data/标注指南.xlsx
 data/test/test_data.txt
+data/test/test_gold_data.txt
+data/train/train_data.txt
+data/validation/validation_data.txt
