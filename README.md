@@ -43,11 +43,11 @@
 
 #### 验证数据
 
-​		验证数据见文件validation_data.txt，一共7682条。在测试数据发布后，验证数据可以作为训练语料。
+​		验证数据见文件validation_data.txt，一共7682条。
 
 #### 测试数据
 
-​		测试数据见文件test_data.txt，一共7697条。测试集标注数据见文件test_gold_data.txt。
+​		测试数据见文件test_data.txt，一共7697条。
 
 #### 评估方法
 
