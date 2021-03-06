@@ -127,7 +127,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
   author={宗辉,张泽宇,杨金璇,雷健波,李作峰,郝天永,张晓艳},
   journal={生物医学工程学杂志},
   year={2021},
-  doi={http://dx.doi.org/10.7507/1001-5515.202006035}
+  doi={10.7507/1001-5515.202006035}
 }
 ```
 
@@ -139,7 +139,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
   author={张博,孙逸,李孟颖,郑馥琦,张益嘉,王健,林鸿飞,杨志豪},
   journal={山西大学学报(自然科学版)},
   year={2020},
-  doi={http://dx.doi.org/10.13451/j.sxu.ns.2020084}
+  doi={10.13451/j.sxu.ns.2020084}
 }
 ```
 
@@ -151,7 +151,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
   author={Kun Zeng, Zhiwei Pan, Yibin Xu, Yingying Qu},
   journal={JMIR Medical Informatics},
   year={2020},
-  doi={http://dx.doi.org/10.2196/17832}
+  doi={10.2196/17832}
 }
 ```
 
