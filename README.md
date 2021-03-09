@@ -157,7 +157,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 
 ## 7.评测组织者
 
-- 宗辉，同济大学
+- 宗辉，同济大学，zonghui@tongji.edu.cn
 - 张晓艳，同济大学
-- 李作峰，飞利浦中国研究院
+- 李作峰，飞利浦中国研究院，zuo.feng.li@philips.com
 - 郝天永，华南师范大学
