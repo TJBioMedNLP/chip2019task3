@@ -24,7 +24,7 @@
 
 44种预定义的语义类别：
 
-|#|group topics|semantic categories|
+|#|topic groups|semantic categories|
 |---|---|----|
 |1|`Health Status`|`Disease` `Symptom` `Sign` `Pregnancy-related Activity` `Neoplasm Status` `Non-Neoplasm Disease Stage` `Allergy Intolerance` `Organ or Tissue Status` `Life Expectancy` `Oral related`|
 |2|`Treatment or Health Care`|`Pharmaceutical Substance or Drug` `Therapy or Surgery` `Device` `Nursing`|
