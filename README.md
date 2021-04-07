@@ -1,6 +1,6 @@
 # 第五届中国健康信息处理会议-评测任务三-临床试验筛选标准短文本分类
 
-**更新**: 目前，此数据集已通过中国中文信息学会（CIPS）医疗健康与生物信息处理专业委员会（CHIP），基于合法开放共享理念，用于阿里达摩院开发的[中文医疗信息处理挑战榜CBLUE](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.22060218.J_2657303350.1.70e82d3dMiiMg3&dataId=95414)。后续如有研究者想基于此数据进行研究，请前往该平台刷榜。
+**更新**: 目前，此数据集已通过中国中文信息学会（CIPS）医疗健康与生物信息处理专业委员会（CHIP），基于合法开放共享理念，用于阿里达摩院开发的[中文医疗信息处理挑战榜CBLUE](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.22060218.J_2657303350.1.70e82d3dMiiMg3&dataId=95414)。后续如有研究者想基于此数据进行研究，可前往该平台下载数据以及打榜。
 
 - [会议链接](http://cips-chip.org.cn/)
 - [评测链接](http://www.cips-chip.org.cn:8088/evaluation)
@@ -116,7 +116,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 
 ## 5.如何引用
 
-宗辉, 张泽宇, 杨金璇, 雷健波, 李作峰, 郝天永, 张晓艳. 基于人工智能的中文临床试验筛选标准文本分类研究. 生物医学工程学杂志, 2021, 38(1): 105-110, 121. doi: [10.7507/1001-5515.202006035](http://www.biomedeng.cn/article/10.7507/1001-5515.202006035)
+宗辉, 张泽宇, 杨金璇, 雷健波, 李作峰, 郝天永, 张晓艳. 基于人工智能的中文临床试验筛选标准文本分类研究. 生物医学工程学杂志, 2021, 38(1): 105-110, 121. doi: [10.7507/1001-5515.202006035](https://kns.cnki.net/kcms/detail/detail.aspx?filename=SWGC202101013&dbcode=CJFD&dbname=CJFD2021&v=s4iZ7yua6hKhoK1gTaBP9OiMEktP5TckXC57PN6ri8awaTa7GvfSp3xie2wgJRmG)
 
 ## 6.发表文章
 
