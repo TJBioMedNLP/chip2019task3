@@ -122,7 +122,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 
 基于此评测数据发表的文章：
 
-**评测概述文章：**
+评测概述文章：
 
 ```
 @article{
@@ -134,7 +134,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 }
 ```
 
-**评测第二名文章：**
+评测第二名文章：
 
 ```
 @article{
@@ -146,7 +146,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 }
 ```
 
-**其他：**
+其他：
 
 ```
 @article{
