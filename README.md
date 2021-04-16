@@ -116,7 +116,9 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 
 ## 5.如何引用
 
-宗辉, 张泽宇, 杨金璇, 雷健波, 李作峰, 郝天永, 张晓艳. 基于人工智能的中文临床试验筛选标准文本分类研究. 生物医学工程学杂志, 2021, 38(1): 105-110, 121. doi: [10.7507/1001-5515.202006035](https://kns.cnki.net/kcms/detail/detail.aspx?filename=SWGC202101013&dbcode=CJFD&dbname=CJFD2021&v=s4iZ7yua6hKhoK1gTaBP9OiMEktP5TckXC57PN6ri8awaTa7GvfSp3xie2wgJRmG)
+1. Zong, H., Yang, J., Zhang, Z. *et al.* Semantic categorization of Chinese eligibility criteria in clinical trials using machine learning methods. *BMC Med Inform Decis Mak* **21,** 128 (2021). https://doi.org/10.1186/s12911-021-01487-w
+
+2. 宗辉, 张泽宇, 杨金璇, 雷健波, 李作峰, 郝天永, 张晓艳. 基于人工智能的中文临床试验筛选标准文本分类研究. 生物医学工程学杂志, 2021, 38(1): 105-110, 121. doi: [10.7507/1001-5515.202006035](https://kns.cnki.net/kcms/detail/detail.aspx?filename=SWGC202101013&dbcode=CJFD&dbname=CJFD2021&v=s4iZ7yua6hKhoK1gTaBP9OiMEktP5TckXC57PN6ri8awaTa7GvfSp3xie2wgJRmG)
 
 ## 6.发表文章
 
@@ -130,7 +132,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
   author={宗辉,张泽宇,杨金璇,雷健波,李作峰,郝天永,张晓艳},
   journal={生物医学工程学杂志},
   year={2021},
-  doi={10.7507/1001-5515.202006035}
+  doi={https://doi.org/10.7507/1001-5515.202006035}
 }
 ```
 
@@ -142,11 +144,21 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
   author={张博,孙逸,李孟颖,郑馥琦,张益嘉,王健,林鸿飞,杨志豪},
   journal={山西大学学报(自然科学版)},
   year={2020},
-  doi={10.13451/j.sxu.ns.2020084}
+  doi={https://doi.org/10.13451/j.sxu.ns.2020084}
 }
 ```
 
 其他：
+```
+@article{
+  title={Semantic categorization of Chinese eligibility criteria in clinical trials using machine learning methods},
+  author={Hui Zong, Jinxuan Yang, Zeyu Zhang, Zuofeng Li, Xiaoyan Zhang},
+  journal={BMC Medical Informatics and Decision Making},
+  year={2021},
+  doi={https://doi.org/10.1186/s12911-021-01487-w}
+}
+```
+
 
 ```
 @article{
@@ -154,7 +166,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
   author={Kun Zeng, Zhiwei Pan, Yibin Xu, Yingying Qu},
   journal={JMIR Medical Informatics},
   year={2020},
-  doi={10.2196/17832}
+  doi={https://doi.org/10.2196/17832}
 }
 ```
 
