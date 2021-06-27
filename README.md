@@ -1,6 +1,6 @@
 # 第五届中国健康信息处理会议-评测任务：临床试验筛选标准短文本分类
 
-**更新**: 目前，此数据集已通过中国中文信息学会（CIPS）医疗健康与生物信息处理专业委员会（CHIP），基于合法开放共享理念，用于阿里达摩院开发的[中文医疗信息处理挑战榜CBLUE](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.22060218.J_2657303350.1.70e82d3dMiiMg3&dataId=95414)。后续如有研究者想基于此数据进行研究，可前往该平台下载数据以及打榜。
+**【更新】**: 目前，此数据集已通过中国中文信息学会（CIPS）医疗健康与生物信息处理专业委员会（CHIP），基于合法开放共享理念，用于阿里达摩院开发的[中文医疗信息处理挑战榜CBLUE](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.22060218.J_2657303350.1.70e82d3dMiiMg3&dataId=95414)。后续如有研究者想基于此数据进行研究，可前往该平台下载数据以及打榜。
 
 - [会议链接](http://cips-chip.org.cn/)
 - [评测链接](http://www.cips-chip.org.cn:8088/evaluation)
