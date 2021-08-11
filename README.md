@@ -124,51 +124,11 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 
 基于此评测数据发表的文章：
 
-评测概述文章：
-
-```
-@article{
-  title={基于人工智能的中文临床试验筛选标准文本分类研究},
-  author={宗辉,张泽宇,杨金璇,雷健波,李作峰,郝天永,张晓艳},
-  journal={生物医学工程学杂志},
-  year={2021},
-  doi={https://doi.org/10.7507/1001-5515.202006035}
-}
-```
-
-评测第二名文章：
-
-```
-@article{
-  title={基于迁移学习和集成学习的医学短文本分类},
-  author={张博,孙逸,李孟颖,郑馥琦,张益嘉,王健,林鸿飞,杨志豪},
-  journal={山西大学学报(自然科学版)},
-  year={2020},
-  doi={https://doi.org/10.13451/j.sxu.ns.2020084}
-}
-```
-
-其他：
-```
-@article{
-  title={Semantic categorization of Chinese eligibility criteria in clinical trials using machine learning methods},
-  author={Hui Zong, Jinxuan Yang, Zeyu Zhang, Zuofeng Li, Xiaoyan Zhang},
-  journal={BMC Medical Informatics and Decision Making},
-  year={2021},
-  doi={https://doi.org/10.1186/s12911-021-01487-w}
-}
-```
-
-
-```
-@article{
-  title={An Ensemble Learning Strategy for Eligibility Criteria Text Classification for Clinical Trial Recruitment: Algorithm Development and Validation},
-  author={Kun Zeng, Zhiwei Pan, Yibin Xu, Yingying Qu},
-  journal={JMIR Medical Informatics},
-  year={2020},
-  doi={https://doi.org/10.2196/17832}
-}
-```
+1. Zong H, Yang J, Zhang Z, Li Z, Zhang X. Semantic categorization of Chinese eligibility criteria in clinical trials using machine learning methods. BMC Med Inform Decis Mak. 2021 Apr 15;21(1):128. doi: 10.1186/s12911-021-01487-w. PMID: 33858409; PMCID: PMC8050926.
+2. Zeng K, Pan Z, Xu Y, Qu Y. An Ensemble Learning Strategy for Eligibility Criteria Text Classification for Clinical Trial Recruitment: Algorithm Development and Validation. JMIR Med Inform. 2020 Jul 1;8(7):e17832. doi: 10.2196/17832. PMID: 32609092; PMCID: PMC7367522.
+3. 宗辉,张泽宇,杨金璇,雷健波,李作峰,郝天永,张晓艳.基于人工智能的中文临床试验筛选标准文本分类研究[J].生物医学工程学杂志,2021,38(01):105-110+121.
+4. 张博,孙逸,李孟颖,郑馥琦,张益嘉,王健,林鸿飞,杨志豪.基于迁移学习和集成学习的医学短文本分类[J].山西大学学报(自然科学版),2020,43(04):947-954.
+5. 杨飞洪,王序文,李姣.基于BERT-TextCNN模型的临床试验筛选短文本分类方法[J].中华医学图书情报杂志,2021,30(01):54-59.
 
 ## 7.评测组织者
 
