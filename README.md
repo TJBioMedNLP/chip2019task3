@@ -122,7 +122,7 @@ python chip2019task3_evaluation.py ./example_gold.txt ./example_pred.txt
 
 ## 6.发表文章
 
-基于此评测数据发表的文章：
+基于此评测数据发表的文章 ：
 
 1. Zong H, Yang J, Zhang Z, Li Z, Zhang X. Semantic categorization of Chinese eligibility criteria in clinical trials using machine learning methods. BMC Med Inform Decis Mak. 2021 Apr 15;21(1):128. doi: 10.1186/s12911-021-01487-w. PMID: 33858409; PMCID: PMC8050926.
 2. Zeng K, Pan Z, Xu Y, Qu Y. An Ensemble Learning Strategy for Eligibility Criteria Text Classification for Clinical Trial Recruitment: Algorithm Development and Validation. JMIR Med Inform. 2020 Jul 1;8(7):e17832. doi: 10.2196/17832. PMID: 32609092; PMCID: PMC7367522.
